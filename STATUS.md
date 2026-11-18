@@ -51,7 +51,7 @@
 ## Nov 18, ~17:40 — autonomous agents (Muse-style) PUBLISHED
 - No step rails, no forms. 'Ads agent' / 'launch ads' → one quiet 'Working on your ads…' line → ONE result card: chosen banner (photo + headline), copy, decision line ('Gel-X · Google + Instagram · 5 mi · $40/day · availability angle · 29 open chair-hours'), two alternatives as thumbnails, 'Approve & launch' (+ Adjust). After approve: launch kit + Mark as launched + tracking. SMM: 7 posts grid with covers + 'Approve all'. SEO: plan + first piece + 'Approve'. Verified Ads and SMM on preview.
 - Viewport fix verified: body overflow hidden, document height == window height, only the thread scrolls.
-- Credits left ~5,000.
+- ~18:20: SEO agent crashed the app for Eve's Space (undefined[0]) → fixed, every chat card wrapped in a retryable error boundary; SEO plan now uses Eve's local-search numbers, article rendered as title/H1/prose/FAQ. PUBLISHED. Credits left ~4,600.
 
 ## Nov 18, ~16:30 — agent flows PUBLISHED
 - Three agents as step rails inside the chat (Brief → Draft → Review → Approve → Launch → Track): Ads (3 distinct A/B/C variants with headline rendered on the banner via canvas, Download PNG, Google Ads CSV + Meta CSV, launch checklist, Mark as launched → Track card with AD-NOV bookings, spend, CPB, margin, Pause / Scale +20%), SMM (7-day plan, covers, Publish via Instagram connector when connected), SEO (30-day plan, 'Write it' drafts, Google Docs when connected). Verified in UI: Ads flow end to end.
