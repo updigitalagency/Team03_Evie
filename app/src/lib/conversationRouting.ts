@@ -1,0 +1,6 @@
+export type RoutedCard='money'|'approvals'|'gap'|'studio'|'ad'|'campaigns'|'discovery'|'brief'|'channels'|'plan'|'seo';
+export function channelCard(channel:string):RoutedCard|undefined {return ({money:'money',approvals:'approvals',bookings:'gap',content:'studio',ads:'ad',campaigns:'campaigns',discovery:'discovery'} as Record<string,RoutedCard>)[channel]}
+export function followUps(card:RoutedCard|undefined,alternate=false):string[]{
+ const options:Record<string,string[][]>={money:[['Show approvals','Write a post'],['Review the weekly brief','Explore channels']],approvals:[['Show the weekly brief','Show money'],['Write a post','Show bookings']],gap:[['Show the weekly brief','Make me an ad'],['Show approvals','Show money']],studio:[['Show approvals','Show money'],['Make me an ad','Show the weekly brief']],ad:[['Review approvals','Show money'],['Write a post','Show bookings']],campaigns:[['Review approvals','Explore discovery'],['Show money','Write a post']],discovery:[['Plan a campaign','Show approvals'],['Show money','Write a post']],brief:[['Fill Thursday’s open hours','Make me an ad'],['Show money','Review approvals']]};
+ return (options[card||'']||[['Show money','Write a post'],['Review approvals','Explore channels']])[alternate?1:0];
+}

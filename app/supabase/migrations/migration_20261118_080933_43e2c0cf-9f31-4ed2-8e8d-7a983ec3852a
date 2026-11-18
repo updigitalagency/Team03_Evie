@@ -1,0 +1,3 @@
+create table public.evie_weekly_state (studio_id uuid not null default auth.uid(), key text not null, value jsonb not null, updated_at timestamptz not null default now(), primary key (studio_id, key));
+alter table public.evie_weekly_state enable row level security;
+create policy evie_weekly_state_owner on public.evie_weekly_state for all to authenticated using (studio_id = auth.uid()) with check (studio_id = auth.uid());

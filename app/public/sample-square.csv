@@ -1,0 +1,61 @@
+Date,Time,Gross Sales,Net Sales,Fees,Customer Name,Item,Card Brand,How did you hear about us,Booking Code,Appointment Minutes,Supplies
+09/01/2026,10:00,95.00,91.94,3.06,Demo client 01,Russian Manicure,Visa,Google Search,SAMPLE-001,81,9.5
+09/02/2026,10:00,115.00,111.37,3.63,Demo client 02,Gel-X Extensions,Visa,Referral,SAMPLE-002,81,11.5
+09/03/2026,10:00,90.00,87.09,2.91,Demo client 03,Pedicure,Visa,Instagram Organic,SAMPLE-003,81,9.0
+09/04/2026,10:00,85.00,82.23,2.77,Demo client 04,Structured Manicure,Visa,Google Search,SAMPLE-004,81,8.5
+09/05/2026,10:00,65.00,62.81,2.19,Demo client 05,Natural Nail Care,Visa,Referral,SAMPLE-005,81,6.5
+09/06/2026,10:00,95.00,91.94,3.06,Demo client 06,Russian Manicure,Visa,Instagram Organic,SAMPLE-006,81,9.5
+09/07/2026,10:00,115.00,111.37,3.63,Demo client 07,Gel-X Extensions,Visa,Google Search,SAMPLE-007,81,11.5
+09/08/2026,10:00,90.00,87.09,2.91,Demo client 08,Pedicure,Visa,Referral,SAMPLE-008,81,9.0
+09/09/2026,10:00,85.00,82.23,2.77,Demo client 09,Structured Manicure,Visa,Instagram Organic,SAMPLE-009,81,8.5
+09/10/2026,10:00,65.00,62.81,2.19,Demo client 10,Natural Nail Care,Visa,Google Search,SAMPLE-010,81,6.5
+09/11/2026,10:00,95.00,91.94,3.06,Demo client 11,Russian Manicure,Visa,Referral,SAMPLE-011,81,9.5
+09/12/2026,10:00,115.00,111.37,3.63,Demo client 12,Gel-X Extensions,Visa,Instagram Organic,SAMPLE-012,81,11.5
+09/13/2026,10:00,90.00,87.09,2.91,Demo client 13,Pedicure,Visa,Google Search,SAMPLE-013,81,9.0
+09/14/2026,10:00,85.00,82.23,2.77,Demo client 14,Structured Manicure,Visa,Referral,SAMPLE-014,81,8.5
+09/15/2026,10:00,65.00,62.81,2.19,Demo client 15,Natural Nail Care,Visa,Instagram Organic,SAMPLE-015,81,6.5
+09/16/2026,10:00,95.00,91.94,3.06,Demo client 16,Russian Manicure,Visa,Google Search,SAMPLE-016,81,9.5
+09/17/2026,10:00,115.00,111.37,3.63,Demo client 17,Gel-X Extensions,Visa,Referral,SAMPLE-017,81,11.5
+09/18/2026,10:00,90.00,87.09,2.91,Demo client 18,Pedicure,Visa,Instagram Organic,SAMPLE-018,81,9.0
+09/19/2026,10:00,85.00,82.23,2.77,Demo client 19,Structured Manicure,Visa,Google Search,SAMPLE-019,81,8.5
+09/20/2026,10:00,65.00,62.81,2.19,Demo client 20,Natural Nail Care,Visa,Referral,SAMPLE-020,81,6.5
+10/01/2026,10:00,95.00,91.94,3.06,Demo client 21,Russian Manicure,Visa,Instagram Organic,SAMPLE-021,81,9.5
+10/02/2026,10:00,115.00,111.37,3.63,Demo client 22,Gel-X Extensions,Visa,Google Search,SAMPLE-022,81,11.5
+10/03/2026,10:00,90.00,87.09,2.91,Demo client 23,Pedicure,Visa,Referral,SAMPLE-023,81,9.0
+10/04/2026,10:00,85.00,82.23,2.77,Demo client 24,Structured Manicure,Visa,Instagram Organic,SAMPLE-024,81,8.5
+10/05/2026,10:00,65.00,62.81,2.19,Demo client 25,Natural Nail Care,Visa,Google Search,SAMPLE-025,81,6.5
+10/06/2026,10:00,95.00,91.94,3.06,Demo client 26,Russian Manicure,Visa,Referral,SAMPLE-026,81,9.5
+10/07/2026,10:00,115.00,111.37,3.63,Demo client 27,Gel-X Extensions,Visa,Instagram Organic,SAMPLE-027,81,11.5
+10/08/2026,10:00,90.00,87.09,2.91,Demo client 28,Pedicure,Visa,Google Search,SAMPLE-028,81,9.0
+10/09/2026,10:00,85.00,82.23,2.77,Demo client 29,Structured Manicure,Visa,Referral,SAMPLE-029,81,8.5
+10/10/2026,10:00,65.00,62.81,2.19,Demo client 30,Natural Nail Care,Visa,Instagram Organic,SAMPLE-030,81,6.5
+10/11/2026,10:00,95.00,91.94,3.06,Demo client 31,Russian Manicure,Visa,Google Search,SAMPLE-031,81,9.5
+10/12/2026,10:00,115.00,111.37,3.63,Demo client 32,Gel-X Extensions,Visa,Referral,SAMPLE-032,81,11.5
+10/13/2026,10:00,90.00,87.09,2.91,Demo client 33,Pedicure,Visa,Instagram Organic,SAMPLE-033,81,9.0
+10/14/2026,10:00,85.00,82.23,2.77,Demo client 34,Structured Manicure,Visa,Google Search,SAMPLE-034,81,8.5
+10/15/2026,10:00,65.00,62.81,2.19,Demo client 35,Natural Nail Care,Visa,Referral,SAMPLE-035,81,6.5
+10/16/2026,10:00,95.00,91.94,3.06,Demo client 01,Russian Manicure,Visa,Instagram Organic,SAMPLE-036,81,9.5
+10/17/2026,10:00,115.00,111.37,3.63,Demo client 02,Gel-X Extensions,Visa,Google Search,SAMPLE-037,81,11.5
+10/18/2026,10:00,90.00,87.09,2.91,Demo client 03,Pedicure,Visa,Referral,SAMPLE-038,81,9.0
+10/19/2026,10:00,85.00,82.23,2.77,Demo client 04,Structured Manicure,Visa,Instagram Organic,SAMPLE-039,81,8.5
+10/20/2026,10:00,65.00,62.81,2.19,Demo client 05,Natural Nail Care,Visa,Google Search,SAMPLE-040,81,6.5
+11/01/2026,10:00,95.00,91.94,3.06,Demo client 06,Russian Manicure,Visa,Referral,SAMPLE-041,81,9.5
+11/02/2026,10:00,115.00,111.37,3.63,Demo client 07,Gel-X Extensions,Visa,Instagram Organic,SAMPLE-042,81,11.5
+11/03/2026,10:00,90.00,87.09,2.91,Demo client 08,Pedicure,Visa,Google Search,SAMPLE-043,81,9.0
+11/04/2026,10:00,85.00,82.23,2.77,Demo client 09,Structured Manicure,Visa,Referral,SAMPLE-044,81,8.5
+11/05/2026,10:00,65.00,62.81,2.19,Demo client 10,Natural Nail Care,Visa,Instagram Organic,SAMPLE-045,81,6.5
+11/06/2026,10:00,95.00,91.94,3.06,Demo client 11,Russian Manicure,Visa,Google Search,SAMPLE-046,81,9.5
+11/07/2026,10:00,115.00,111.37,3.63,Demo client 12,Gel-X Extensions,Visa,Referral,SAMPLE-047,81,11.5
+11/08/2026,10:00,90.00,87.09,2.91,Demo client 13,Pedicure,Visa,Instagram Organic,SAMPLE-048,81,9.0
+11/09/2026,10:00,85.00,82.23,2.77,Demo client 14,Structured Manicure,Visa,Google Search,SAMPLE-049,81,8.5
+11/10/2026,10:00,65.00,62.81,2.19,Demo client 15,Natural Nail Care,Visa,Referral,SAMPLE-050,81,6.5
+11/11/2026,10:00,95.00,91.94,3.06,Demo client 16,Russian Manicure,Visa,Instagram Organic,SAMPLE-051,81,9.5
+11/12/2026,10:00,115.00,111.37,3.63,Demo client 17,Gel-X Extensions,Visa,Google Search,SAMPLE-052,81,11.5
+11/13/2026,10:00,90.00,87.09,2.91,Demo client 18,Pedicure,Visa,Referral,SAMPLE-053,81,9.0
+11/14/2026,10:00,85.00,82.23,2.77,Demo client 19,Structured Manicure,Visa,Instagram Organic,SAMPLE-054,81,8.5
+11/15/2026,10:00,65.00,62.81,2.19,Demo client 20,Natural Nail Care,Visa,Google Search,SAMPLE-055,81,6.5
+11/16/2026,10:00,95.00,91.94,3.06,Demo client 21,Russian Manicure,Visa,Referral,SAMPLE-056,81,9.5
+11/17/2026,10:00,115.00,111.37,3.63,Demo client 22,Gel-X Extensions,Visa,Instagram Organic,SAMPLE-057,81,11.5
+11/18/2026,10:00,90.00,87.09,2.91,Demo client 23,Pedicure,Visa,Google Search,SAMPLE-058,81,9.0
+11/19/2026,10:00,85.00,82.23,2.77,Demo client 24,Structured Manicure,Visa,Referral,SAMPLE-059,81,8.5
+11/20/2026,10:00,65.00,62.81,2.19,Demo client 25,Natural Nail Care,Visa,Instagram Organic,SAMPLE-060,81,6.5
