@@ -48,6 +48,18 @@
 - Cost: ~1,040 credits (916 + 124). Credits left ~8,500.
 - Docs: one-pager-browdown.md.
 
+## Nov 18, ~16:30 — agent flows PUBLISHED
+- Three agents as step rails inside the chat (Brief → Draft → Review → Approve → Launch → Track): Ads (3 distinct A/B/C variants with headline rendered on the banner via canvas, Download PNG, Google Ads CSV + Meta CSV, launch checklist, Mark as launched → Track card with AD-NOV bookings, spend, CPB, margin, Pause / Scale +20%), SMM (7-day plan, covers, Publish via Instagram connector when connected), SEO (30-day plan, 'Write it' drafts, Google Docs when connected). Verified in UI: Ads flow end to end.
+- Fixed viewport: thread scrolls inside the window, composer pinned. Profile sheet redesigned (avatar row, 3 stat tiles, campaign rows, thin channel bars).
+- Platform limit (say it in the pitch): no Google Ads / Meta API on Converge → agents deliver files + checklist; Instagram / Gmail / Google Docs work only after Lisa connects them in Enter → Connectors.
+- Credits left ~5,300.
+
+## Nov 18, ~14:30 — chat-only workspace, Notion style, submission pack
+- PUBLISHED: everything in one chat (no page navigation), left sidebar with # channels (today/approvals/bookings/money/content/ads; Brow Down: campaigns/discovery), Chat · Profile · Settings pill, Profile sheet (calm overview), Settings sheet (integrations, demo code, Monday email switch, How Evie counts), slash menu, follow-up chips, Notion/Victor-AI visual system (white window on lavender glow, Inter, violet accent). Verified: chips and channels post cards into the thread; Brow Down campaign plan via live model; Profile sheet.
+- Submission pack in submission/: Team03_Evie.pdf (5 pages; team names/emails, GitHub and video links still placeholders), Team03_Evie_video-script.md (2:30). README.md at root.
+- Source exported from Enter (137 files) into app/ via the Code panel; local git repo initialised with 2 commits. GitHub push NOT done: creating the public repo was blocked for the agent; run `gh repo create Team03_Evie --public --source=. --remote=origin --push` from the hackathon folder.
+- Credits left ~7,000.
+
 ## Nov 18, ~11:30 — images, PDF, trim, design pass PUBLISHED
 - Ad creative card now generates a REAL image via new edge function `evie-image` (Gemini image model 'Nano Banana 2' through Enter AI; Framia has no app-side API). Verified in UI: photo of a Gel-X manicure rendered in the card, 'Regenerate image' present. Same demo-code gate.
 - Report → Money card + 'Download PDF' (print view). More menu trimmed per studio; triage + sign-in block removed; 'How Evie counts' in footer.
