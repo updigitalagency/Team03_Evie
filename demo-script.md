@@ -1,6 +1,8 @@
 # Evie — demo script (3 minutes)
 
-> **Updated for the chat-first version (Nov 18).** The home screen is now a single conversation: orb, "Good morning, Eve.", Evie's message, three chips, composer. All other screens are under **⋯ More**. Flow: tap "Approve this week's plan" → tap "Fill Thursday's open hours" (Gap Filler card inline) → type the Gel-X note and ask Evie to write a post → ask "Was the August influencer worth it?" → open More → Brief. The sections below still describe each screen's content.
+> **Updated Nov 18 evening: the app is now an empty chat (ChatGPT/Muse style) with a chat list, Profile and Settings. Demo = type or tap ideas; agents run autonomously and ask for one Approve. The older sections below describe card contents only.**
+
+> **Previous note:** The home screen is now a single conversation: orb, "Good morning, Eve.", Evie's message, three chips, composer. All other screens are under **⋯ More**. Flow: tap "Approve this week's plan" → tap "Fill Thursday's open hours" (Gap Filler card inline) → type the Gel-X note and ask Evie to write a post → ask "Was the August influencer worth it?" → open More → Brief. The sections below still describe each screen's content.
 
 **Before you start:** open https://2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro/ in a fresh tab, desktop width, light mode. Enter the AI demo code `EVE2026` once in Chat beforehand so the dialog does not interrupt the demo. Keep the Studio textarea empty (you will type live).
 

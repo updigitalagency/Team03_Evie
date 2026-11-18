@@ -48,6 +48,10 @@
 - Cost: ~1,040 credits (916 + 124). Credits left ~8,500.
 - Docs: one-pager-browdown.md.
 
+## Nov 18, ~19:10 — empty chat + chat list PUBLISHED
+- Channels removed. Sidebar = '+ New chat' + Recent chats (auto-titled, per studio, persisted). New chat = orb + 'What should we work on, Eve?' + 6 idea chips (from a pool of 10), composer. No pre-rendered content; all numbers live in Profile. Verified: chip → live answer, chat appears in Recent with its title.
+- Credits left ~3,700.
+
 ## Nov 18, ~17:40 — autonomous agents (Muse-style) PUBLISHED
 - No step rails, no forms. 'Ads agent' / 'launch ads' → one quiet 'Working on your ads…' line → ONE result card: chosen banner (photo + headline), copy, decision line ('Gel-X · Google + Instagram · 5 mi · $40/day · availability angle · 29 open chair-hours'), two alternatives as thumbnails, 'Approve & launch' (+ Adjust). After approve: launch kit + Mark as launched + tracking. SMM: 7 posts grid with covers + 'Approve all'. SEO: plan + first piece + 'Approve'. Verified Ads and SMM on preview.
 - Viewport fix verified: body overflow hidden, document height == window height, only the thread scrolls.
