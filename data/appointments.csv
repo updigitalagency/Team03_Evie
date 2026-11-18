@@ -1,0 +1,1594 @@
+appointment_id,date,client_id,visit_type,acquisition_channel,source_system,service,duration_min,gross_service_revenue,platform_fee,card_processing_fee,tech_commission,supplies_cost,tip,retail_revenue,retail_cogs
+A00001,2026-05-01,C0301,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A00002,2026-05-01,C0302,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00003,2026-05-01,C0303,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00004,2026-05-01,C0304,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00005,2026-05-01,C0096,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,42,21.0
+A00006,2026-05-01,C0141,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A00007,2026-05-01,C0147,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,0,0,0.0
+A00008,2026-05-01,C0157,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,34,17.0
+A00009,2026-05-01,C0163,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00010,2026-05-01,C0220,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00011,2026-05-01,C0266,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,28,14.0
+A00012,2026-05-02,C0305,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,28,14.0
+A00013,2026-05-02,C0306,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00014,2026-05-02,C0307,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,22.5,0,0.0
+A00015,2026-05-02,C0055,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00016,2026-05-02,C0056,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,42,21.0
+A00017,2026-05-02,C0083,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,34,17.0
+A00018,2026-05-02,C0112,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00019,2026-05-02,C0135,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00020,2026-05-02,C0153,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00021,2026-05-02,C0169,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00022,2026-05-02,C0211,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,28,14.0
+A00023,2026-05-02,C0258,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A00024,2026-05-02,C0259,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00025,2026-05-03,C0308,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,0,0.0
+A00026,2026-05-03,C0309,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A00027,2026-05-03,C0310,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A00028,2026-05-03,C0311,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00029,2026-05-03,C0001,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,28,14.0
+A00030,2026-05-03,C0016,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00031,2026-05-03,C0061,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00032,2026-05-03,C0098,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,42,21.0
+A00033,2026-05-03,C0158,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A00034,2026-05-03,C0193,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00035,2026-05-03,C0262,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00036,2026-05-05,C0312,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A00037,2026-05-05,C0313,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00038,2026-05-05,C0008,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00039,2026-05-05,C0057,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00040,2026-05-05,C0060,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00041,2026-05-05,C0070,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,28,14.0
+A00042,2026-05-05,C0097,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00043,2026-05-05,C0104,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,28,14.0
+A00044,2026-05-05,C0115,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,34,17.0
+A00045,2026-05-05,C0168,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00046,2026-05-05,C0189,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00047,2026-05-05,C0232,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00048,2026-05-06,C0314,first,Google Search,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,9.75,34,17.0
+A00049,2026-05-06,C0315,first,Instagram Paid Ads,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,26.4,0,0.0
+A00050,2026-05-06,C0316,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00051,2026-05-06,C0317,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00052,2026-05-06,C0005,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00053,2026-05-06,C0007,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,28,14.0
+A00054,2026-05-06,C0049,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00055,2026-05-06,C0068,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00056,2026-05-06,C0092,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00057,2026-05-06,C0098,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00058,2026-05-06,C0130,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00059,2026-05-06,C0135,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00060,2026-05-06,C0141,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,28,14.0
+A00061,2026-05-06,C0166,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00062,2026-05-06,C0207,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00063,2026-05-06,C0214,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,34,17.0
+A00064,2026-05-06,C0286,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00065,2026-05-06,C0301,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,34,17.0
+A00066,2026-05-07,C0318,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00067,2026-05-07,C0319,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00068,2026-05-07,C0320,first,Airbnb Experiences,Airbnb,Natural Nail Care + Nail Art,65,95,19.0,0,38.0,10,0,0,0.0
+A00069,2026-05-07,C0098,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00070,2026-05-07,C0122,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,34,17.0
+A00071,2026-05-07,C0202,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00072,2026-05-07,C0211,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00073,2026-05-07,C0222,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00074,2026-05-07,C0235,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,28,14.0
+A00075,2026-05-07,C0249,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A00076,2026-05-07,C0266,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,42,21.0
+A00077,2026-05-07,C0281,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00078,2026-05-07,C0312,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00079,2026-05-08,C0321,first,Instagram Paid Ads,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00080,2026-05-08,C0322,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00081,2026-05-08,C0009,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00082,2026-05-08,C0023,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00083,2026-05-08,C0170,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00084,2026-05-08,C0191,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,42,21.0
+A00085,2026-05-08,C0219,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,0,0.0
+A00086,2026-05-08,C0251,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00087,2026-05-09,C0323,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,34,17.0
+A00088,2026-05-09,C0324,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00089,2026-05-09,C0325,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00090,2026-05-09,C0326,first,ClassPass,ClassPass,Russian Manicure + Nail Art,95,125,56.25,0,50.0,13,0,0,0.0
+A00091,2026-05-09,C0021,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,34,17.0
+A00092,2026-05-09,C0025,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00093,2026-05-09,C0038,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00094,2026-05-09,C0045,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00095,2026-05-09,C0050,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,42,21.0
+A00096,2026-05-09,C0088,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00097,2026-05-09,C0119,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A00098,2026-05-09,C0165,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,34,17.0
+A00099,2026-05-09,C0197,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00100,2026-05-09,C0217,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00101,2026-05-09,C0256,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00102,2026-05-10,C0327,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,42,21.0
+A00103,2026-05-10,C0328,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,22.5,0,0.0
+A00104,2026-05-10,C0329,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00105,2026-05-10,C0330,first,Airbnb Experiences,Airbnb,Pedicure,60,90,18.0,0,36.0,11,0,0,0.0
+A00106,2026-05-10,C0028,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,28,14.0
+A00107,2026-05-10,C0061,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A00108,2026-05-10,C0070,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,42,21.0
+A00109,2026-05-10,C0088,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00110,2026-05-10,C0147,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00111,2026-05-10,C0180,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00112,2026-05-10,C0193,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,28,14.0
+A00113,2026-05-10,C0204,repeat,Instagram Organic,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,20.9,34,17.0
+A00114,2026-05-12,C0331,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,42,21.0
+A00115,2026-05-12,C0332,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00116,2026-05-12,C0014,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00117,2026-05-12,C0077,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,28,14.0
+A00118,2026-05-12,C0079,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00119,2026-05-12,C0106,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00120,2026-05-12,C0111,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,11.7,0,0.0
+A00121,2026-05-12,C0114,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A00122,2026-05-12,C0115,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,28,14.0
+A00123,2026-05-12,C0300,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00124,2026-05-13,C0333,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,34,17.0
+A00125,2026-05-13,C0334,first,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A00126,2026-05-13,C0094,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00127,2026-05-13,C0121,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00128,2026-05-13,C0158,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,42,21.0
+A00129,2026-05-13,C0232,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00130,2026-05-13,C0288,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,28,14.0
+A00131,2026-05-14,C0335,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00132,2026-05-14,C0336,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,34,17.0
+A00133,2026-05-14,C0337,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A00134,2026-05-14,C0338,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00135,2026-05-14,C0339,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00136,2026-05-14,C0020,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00137,2026-05-14,C0023,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00138,2026-05-14,C0032,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,11.7,0,0.0
+A00139,2026-05-14,C0043,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A00140,2026-05-14,C0217,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A00141,2026-05-14,C0218,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,34,17.0
+A00142,2026-05-14,C0243,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00143,2026-05-14,C0272,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,0,0,0.0
+A00144,2026-05-14,C0273,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00145,2026-05-15,C0340,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00146,2026-05-15,C0341,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00147,2026-05-15,C0028,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00148,2026-05-15,C0079,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00149,2026-05-15,C0095,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,42,21.0
+A00150,2026-05-15,C0140,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A00151,2026-05-15,C0157,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00152,2026-05-15,C0203,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00153,2026-05-15,C0208,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00154,2026-05-15,C0237,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A00155,2026-05-15,C0275,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00156,2026-05-15,C0324,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00157,2026-05-16,C0342,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,13.5,0,0.0
+A00158,2026-05-16,C0343,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,28,14.0
+A00159,2026-05-16,C0344,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00160,2026-05-16,C0043,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00161,2026-05-16,C0074,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00162,2026-05-16,C0192,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,34,17.0
+A00163,2026-05-16,C0197,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,42,21.0
+A00164,2026-05-16,C0202,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00165,2026-05-16,C0218,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00166,2026-05-16,C0222,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00167,2026-05-16,C0268,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00168,2026-05-16,C0300,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,42,21.0
+A00169,2026-05-17,C0345,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,34,17.0
+A00170,2026-05-17,C0346,first,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,23.0,42,21.0
+A00171,2026-05-17,C0347,first,ClassPass,ClassPass,Pedicure + Nail Art,80,120,54.0,0,48.0,15,0,0,0.0
+A00172,2026-05-17,C0348,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A00173,2026-05-17,C0008,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00174,2026-05-17,C0140,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00175,2026-05-17,C0182,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00176,2026-05-17,C0283,repeat,Referral,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,20.9,0,0.0
+A00177,2026-05-17,C0308,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00178,2026-05-19,C0349,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00179,2026-05-19,C0350,first,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00180,2026-05-19,C0351,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00181,2026-05-19,C0003,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,28,14.0
+A00182,2026-05-19,C0019,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,34,17.0
+A00183,2026-05-19,C0105,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A00184,2026-05-19,C0148,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00185,2026-05-19,C0225,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A00186,2026-05-19,C0249,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00187,2026-05-19,C0310,repeat,Instagram Paid Ads,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,14.25,0,0.0
+A00188,2026-05-20,C0352,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00189,2026-05-20,C0353,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00190,2026-05-20,C0354,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00191,2026-05-20,C0007,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,28,14.0
+A00192,2026-05-20,C0043,repeat,Referral,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,0,0,0.0
+A00193,2026-05-20,C0140,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00194,2026-05-20,C0152,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00195,2026-05-20,C0177,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,28,14.0
+A00196,2026-05-20,C0245,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,0,0,0.0
+A00197,2026-05-20,C0257,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00198,2026-05-20,C0266,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00199,2026-05-20,C0272,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A00200,2026-05-20,C0274,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00201,2026-05-20,C0308,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A00202,2026-05-21,C0355,first,Instagram Paid Ads,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,34,17.0
+A00203,2026-05-21,C0008,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00204,2026-05-21,C0010,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00205,2026-05-21,C0054,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00206,2026-05-21,C0067,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00207,2026-05-21,C0150,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00208,2026-05-21,C0177,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00209,2026-05-21,C0248,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,34,17.0
+A00210,2026-05-21,C0289,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00211,2026-05-22,C0356,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,0,0.0
+A00212,2026-05-22,C0357,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,0,0.0
+A00213,2026-05-22,C0358,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00214,2026-05-22,C0005,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A00215,2026-05-22,C0020,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,28,14.0
+A00216,2026-05-22,C0148,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00217,2026-05-22,C0157,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,34,17.0
+A00218,2026-05-22,C0160,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00219,2026-05-22,C0284,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,28,14.0
+A00220,2026-05-23,C0359,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00221,2026-05-23,C0360,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00222,2026-05-23,C0361,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00223,2026-05-23,C0062,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A00224,2026-05-23,C0099,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00225,2026-05-23,C0105,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,34,17.0
+A00226,2026-05-23,C0116,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00227,2026-05-23,C0293,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00228,2026-05-23,C0337,repeat,Instagram Paid Ads,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00229,2026-05-24,C0362,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A00230,2026-05-24,C0363,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00231,2026-05-24,C0364,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00232,2026-05-24,C0002,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A00233,2026-05-24,C0010,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,20.9,0,0.0
+A00234,2026-05-24,C0014,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,28,14.0
+A00235,2026-05-24,C0031,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A00236,2026-05-24,C0041,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00237,2026-05-24,C0069,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00238,2026-05-24,C0078,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00239,2026-05-24,C0117,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00240,2026-05-24,C0142,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A00241,2026-05-24,C0239,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A00242,2026-05-24,C0289,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00243,2026-05-24,C0315,repeat,Instagram Paid Ads,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,28,14.0
+A00244,2026-05-26,C0365,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,42,21.0
+A00245,2026-05-26,C0366,first,Airbnb Experiences,Airbnb,Gel-X Extensions,90,115,23.0,0,46.0,14,0,0,0.0
+A00246,2026-05-26,C0075,repeat,Referral,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,14.25,0,0.0
+A00247,2026-05-26,C0253,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00248,2026-05-26,C0300,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,28,14.0
+A00249,2026-05-26,C0331,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00250,2026-05-26,C0359,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00251,2026-05-27,C0367,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,28,14.0
+A00252,2026-05-27,C0368,first,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,26.1,0,0.0
+A00253,2026-05-27,C0369,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00254,2026-05-27,C0370,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00255,2026-05-27,C0037,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00256,2026-05-27,C0098,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00257,2026-05-27,C0137,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,18.0,0,0.0
+A00258,2026-05-27,C0151,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00259,2026-05-27,C0184,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,28,14.0
+A00260,2026-05-27,C0237,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A00261,2026-05-27,C0341,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00262,2026-05-27,C0355,repeat,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,28,14.0
+A00263,2026-05-28,C0371,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00264,2026-05-28,C0372,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A00265,2026-05-28,C0373,first,Airbnb Experiences,Airbnb,Structured Manicure + Nail Art,95,115,23.0,0,46.0,14,0,0,0.0
+A00266,2026-05-28,C0095,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00267,2026-05-28,C0124,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A00268,2026-05-28,C0139,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00269,2026-05-28,C0169,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00270,2026-05-28,C0170,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00271,2026-05-28,C0247,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,42,21.0
+A00272,2026-05-28,C0257,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00273,2026-05-28,C0262,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,28,14.0
+A00274,2026-05-29,C0374,first,Google Search,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,21.6,0,0.0
+A00275,2026-05-29,C0375,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00276,2026-05-29,C0119,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,28,14.0
+A00277,2026-05-29,C0154,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00278,2026-05-29,C0157,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00279,2026-05-29,C0162,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00280,2026-05-29,C0179,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00281,2026-05-29,C0185,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00282,2026-05-29,C0216,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00283,2026-05-30,C0376,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00284,2026-05-30,C0377,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00285,2026-05-30,C0378,first,Airbnb Experiences,Airbnb,Structured Manicure,75,85,17.0,0,34.0,10,0,0,0.0
+A00286,2026-05-30,C0009,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00287,2026-05-30,C0095,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00288,2026-05-30,C0111,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00289,2026-05-30,C0118,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00290,2026-05-30,C0120,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00291,2026-05-30,C0168,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00292,2026-05-30,C0174,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00293,2026-05-30,C0179,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A00294,2026-05-30,C0202,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00295,2026-05-30,C0247,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00296,2026-05-30,C0256,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00297,2026-05-30,C0272,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,28,14.0
+A00298,2026-05-30,C0295,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00299,2026-05-31,C0379,first,Instagram Paid Ads,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A00300,2026-05-31,C0380,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,42,21.0
+A00301,2026-05-31,C0066,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00302,2026-05-31,C0142,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00303,2026-05-31,C0193,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,42,21.0
+A00304,2026-05-31,C0216,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00305,2026-05-31,C0222,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,34,17.0
+A00306,2026-05-31,C0237,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,42,21.0
+A00307,2026-05-31,C0253,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00308,2026-05-31,C0263,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A00309,2026-05-31,C0264,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00310,2026-05-31,C0339,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A00311,2026-06-02,C0381,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A00312,2026-06-02,C0382,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00313,2026-06-02,C0383,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,21.75,0,0.0
+A00314,2026-06-02,C0384,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00315,2026-06-02,C0006,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,34,17.0
+A00316,2026-06-02,C0009,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,0,28,14.0
+A00317,2026-06-02,C0045,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A00318,2026-06-02,C0074,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,42,21.0
+A00319,2026-06-02,C0079,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00320,2026-06-02,C0118,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,42,21.0
+A00321,2026-06-02,C0140,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A00322,2026-06-02,C0173,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,42,21.0
+A00323,2026-06-02,C0212,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A00324,2026-06-02,C0219,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00325,2026-06-02,C0282,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00326,2026-06-02,C0285,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00327,2026-06-03,C0385,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00328,2026-06-03,C0386,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00329,2026-06-03,C0387,first,Airbnb Experiences,Airbnb,Gel-X Extensions,90,115,23.0,0,46.0,14,0,0,0.0
+A00330,2026-06-03,C0388,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00331,2026-06-03,C0031,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00332,2026-06-03,C0067,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00333,2026-06-03,C0100,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00334,2026-06-03,C0105,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00335,2026-06-03,C0107,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00336,2026-06-03,C0132,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,42,21.0
+A00337,2026-06-03,C0170,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00338,2026-06-03,C0273,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00339,2026-06-03,C0274,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00340,2026-06-03,C0298,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00341,2026-06-04,C0389,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A00342,2026-06-04,C0390,first,Instagram Paid Ads,Square,Pedicure,60,90,0.0,2.91,36.0,11,18.0,0,0.0
+A00343,2026-06-04,C0391,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00344,2026-06-04,C0002,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00345,2026-06-04,C0020,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00346,2026-06-04,C0025,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,42,21.0
+A00347,2026-06-04,C0067,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,28,14.0
+A00348,2026-06-04,C0091,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00349,2026-06-04,C0140,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,42,21.0
+A00350,2026-06-04,C0157,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00351,2026-06-04,C0158,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00352,2026-06-04,C0162,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00353,2026-06-04,C0199,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A00354,2026-06-05,C0392,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00355,2026-06-05,C0393,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00356,2026-06-05,C0394,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A00357,2026-06-05,C0395,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,34,17.0
+A00358,2026-06-05,C0396,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00359,2026-06-05,C0026,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00360,2026-06-05,C0045,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,34,17.0
+A00361,2026-06-05,C0047,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00362,2026-06-05,C0071,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A00363,2026-06-05,C0225,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00364,2026-06-05,C0241,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,34,17.0
+A00365,2026-06-05,C0292,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,34,17.0
+A00366,2026-06-05,C0294,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A00367,2026-06-06,C0397,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00368,2026-06-06,C0398,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00369,2026-06-06,C0399,first,ClassPass,ClassPass,Pedicure + Nail Art,80,120,54.0,0,48.0,15,0,0,0.0
+A00370,2026-06-06,C0067,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,34,17.0
+A00371,2026-06-06,C0071,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,42,21.0
+A00372,2026-06-06,C0105,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,34,17.0
+A00373,2026-06-06,C0121,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00374,2026-06-06,C0151,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00375,2026-06-07,C0400,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,18.0,0,0.0
+A00376,2026-06-07,C0401,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00377,2026-06-07,C0402,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,42,21.0
+A00378,2026-06-07,C0078,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,28,14.0
+A00379,2026-06-07,C0120,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00380,2026-06-07,C0142,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00381,2026-06-07,C0273,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00382,2026-06-07,C0278,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00383,2026-06-07,C0343,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,34,17.0
+A00384,2026-06-07,C0345,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00385,2026-06-07,C0352,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,42,21.0
+A00386,2026-06-09,C0403,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,21.75,0,0.0
+A00387,2026-06-09,C0014,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00388,2026-06-09,C0089,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A00389,2026-06-09,C0132,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00390,2026-06-09,C0155,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00391,2026-06-09,C0262,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,34,17.0
+A00392,2026-06-09,C0269,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A00393,2026-06-09,C0353,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A00394,2026-06-10,C0404,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A00395,2026-06-10,C0405,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,0,0.0
+A00396,2026-06-10,C0406,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A00397,2026-06-10,C0407,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,28,14.0
+A00398,2026-06-10,C0408,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00399,2026-06-10,C0409,first,Referral,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,0,0.0
+A00400,2026-06-10,C0077,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00401,2026-06-10,C0078,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,34,17.0
+A00402,2026-06-10,C0106,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00403,2026-06-10,C0208,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00404,2026-06-10,C0287,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00405,2026-06-11,C0410,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A00406,2026-06-11,C0411,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00407,2026-06-11,C0412,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00408,2026-06-11,C0413,first,ClassPass,ClassPass,Russian Manicure + Nail Art,95,125,56.25,0,50.0,13,0,0,0.0
+A00409,2026-06-11,C0008,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,28,14.0
+A00410,2026-06-11,C0010,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00411,2026-06-11,C0286,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00412,2026-06-12,C0414,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,31.9,0,0.0
+A00413,2026-06-12,C0415,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A00414,2026-06-12,C0416,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00415,2026-06-12,C0417,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,42,21.0
+A00416,2026-06-12,C0012,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A00417,2026-06-12,C0026,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,34,17.0
+A00418,2026-06-12,C0104,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00419,2026-06-12,C0116,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00420,2026-06-12,C0214,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00421,2026-06-12,C0305,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00422,2026-06-13,C0418,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,0,0,0.0
+A00423,2026-06-13,C0419,first,Instagram Paid Ads,Square,Pedicure,60,90,0.0,2.91,36.0,11,19.8,0,0.0
+A00424,2026-06-13,C0420,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A00425,2026-06-13,C0421,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00426,2026-06-13,C0422,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00427,2026-06-13,C0001,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00428,2026-06-13,C0011,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,34,17.0
+A00429,2026-06-13,C0019,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00430,2026-06-13,C0051,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00431,2026-06-13,C0073,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00432,2026-06-13,C0136,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00433,2026-06-13,C0175,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A00434,2026-06-13,C0189,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,42,21.0
+A00435,2026-06-13,C0213,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00436,2026-06-13,C0218,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00437,2026-06-13,C0224,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00438,2026-06-13,C0264,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,42,21.0
+A00439,2026-06-13,C0314,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00440,2026-06-14,C0423,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A00441,2026-06-14,C0424,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,42,21.0
+A00442,2026-06-14,C0425,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A00443,2026-06-14,C0426,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00444,2026-06-14,C0427,first,Referral,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,0,0.0
+A00445,2026-06-14,C0007,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,28,14.0
+A00446,2026-06-14,C0100,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00447,2026-06-14,C0108,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00448,2026-06-14,C0111,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00449,2026-06-14,C0126,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00450,2026-06-14,C0162,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,34,17.0
+A00451,2026-06-14,C0170,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00452,2026-06-14,C0223,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00453,2026-06-14,C0263,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00454,2026-06-14,C0289,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00455,2026-06-16,C0428,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,28,14.0
+A00456,2026-06-16,C0429,first,ClassPass,ClassPass,Natural Nail Care + Nail Art,65,95,42.75,0,38.0,10,0,0,0.0
+A00457,2026-06-16,C0008,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00458,2026-06-16,C0036,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,28,14.0
+A00459,2026-06-16,C0047,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00460,2026-06-16,C0141,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00461,2026-06-16,C0170,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00462,2026-06-16,C0197,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00463,2026-06-16,C0213,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,34,17.0
+A00464,2026-06-16,C0238,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00465,2026-06-16,C0291,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A00466,2026-06-16,C0305,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00467,2026-06-16,C0356,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A00468,2026-06-17,C0430,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,42,21.0
+A00469,2026-06-17,C0431,first,Instagram Organic,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,26.4,0,0.0
+A00470,2026-06-17,C0432,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,34,17.0
+A00471,2026-06-17,C0433,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,0,0.0
+A00472,2026-06-17,C0434,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00473,2026-06-17,C0025,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00474,2026-06-17,C0067,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A00475,2026-06-17,C0098,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00476,2026-06-17,C0118,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A00477,2026-06-17,C0181,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,42,21.0
+A00478,2026-06-17,C0208,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00479,2026-06-17,C0262,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00480,2026-06-17,C0263,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00481,2026-06-17,C0272,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,34,17.0
+A00482,2026-06-17,C0343,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,28,14.0
+A00483,2026-06-17,C0424,repeat,Influencer Collab,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00484,2026-06-18,C0435,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,0,0.0
+A00485,2026-06-18,C0436,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,0,0.0
+A00486,2026-06-18,C0437,first,Instagram Paid Ads,Square,Pedicure,60,90,0.0,2.91,36.0,11,0,0,0.0
+A00487,2026-06-18,C0438,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,29.0,0,0.0
+A00488,2026-06-18,C0439,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00489,2026-06-18,C0154,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,42,21.0
+A00490,2026-06-18,C0269,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,42,21.0
+A00491,2026-06-18,C0299,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00492,2026-06-18,C0314,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,17.1,0,0.0
+A00493,2026-06-19,C0440,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,0,0.0
+A00494,2026-06-19,C0441,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,28,14.0
+A00495,2026-06-19,C0442,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,28,14.0
+A00496,2026-06-19,C0443,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00497,2026-06-19,C0018,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00498,2026-06-19,C0059,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00499,2026-06-19,C0086,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A00500,2026-06-19,C0147,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A00501,2026-06-19,C0209,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A00502,2026-06-20,C0444,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A00503,2026-06-20,C0445,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,25.3,42,21.0
+A00504,2026-06-20,C0446,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,28,14.0
+A00505,2026-06-20,C0447,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00506,2026-06-20,C0001,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00507,2026-06-20,C0021,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,17.1,34,17.0
+A00508,2026-06-20,C0027,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00509,2026-06-20,C0035,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,28,14.0
+A00510,2026-06-20,C0097,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00511,2026-06-20,C0132,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00512,2026-06-20,C0136,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00513,2026-06-20,C0184,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00514,2026-06-20,C0206,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,14.3,0,0.0
+A00515,2026-06-20,C0235,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00516,2026-06-20,C0371,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00517,2026-06-20,C0413,repeat,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00518,2026-06-21,C0448,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,22.5,0,0.0
+A00519,2026-06-21,C0449,first,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00520,2026-06-21,C0450,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00521,2026-06-21,C0451,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00522,2026-06-21,C0037,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A00523,2026-06-21,C0154,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A00524,2026-06-21,C0173,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,18.0,34,17.0
+A00525,2026-06-21,C0208,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A00526,2026-06-21,C0382,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00527,2026-06-21,C0405,repeat,Instagram Paid Ads,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,42,21.0
+A00528,2026-06-21,C0414,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00529,2026-06-23,C0452,first,Google Search,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,18.0,34,17.0
+A00530,2026-06-23,C0453,first,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00531,2026-06-23,C0454,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A00532,2026-06-23,C0021,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,14.3,34,17.0
+A00533,2026-06-23,C0034,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00534,2026-06-23,C0085,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,28,14.0
+A00535,2026-06-23,C0150,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A00536,2026-06-23,C0152,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00537,2026-06-23,C0178,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00538,2026-06-23,C0179,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,18.0,0,0.0
+A00539,2026-06-23,C0188,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00540,2026-06-23,C0212,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A00541,2026-06-23,C0220,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00542,2026-06-23,C0225,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00543,2026-06-23,C0290,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,0,0.0
+A00544,2026-06-24,C0455,first,Google Search,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,18.0,0,0.0
+A00545,2026-06-24,C0456,first,Instagram Organic,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,0,0,0.0
+A00546,2026-06-24,C0457,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00547,2026-06-24,C0101,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00548,2026-06-24,C0105,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,28,14.0
+A00549,2026-06-24,C0173,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,34,17.0
+A00550,2026-06-24,C0174,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00551,2026-06-24,C0232,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00552,2026-06-24,C0288,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00553,2026-06-24,C0372,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A00554,2026-06-25,C0010,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,42,21.0
+A00555,2026-06-25,C0033,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00556,2026-06-25,C0081,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,42,21.0
+A00557,2026-06-25,C0260,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00558,2026-06-25,C0265,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00559,2026-06-25,C0267,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,11.7,0,0.0
+A00560,2026-06-25,C0293,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A00561,2026-06-25,C0305,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,28,14.0
+A00562,2026-06-26,C0458,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00563,2026-06-26,C0121,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00564,2026-06-26,C0162,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00565,2026-06-26,C0218,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00566,2026-06-26,C0278,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00567,2026-06-26,C0291,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,28,14.0
+A00568,2026-06-26,C0367,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00569,2026-06-27,C0459,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,0,34,17.0
+A00570,2026-06-27,C0460,first,Instagram Paid Ads,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,9.75,0,0.0
+A00571,2026-06-27,C0461,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00572,2026-06-27,C0118,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00573,2026-06-27,C0182,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00574,2026-06-27,C0257,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00575,2026-06-27,C0270,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00576,2026-06-27,C0274,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A00577,2026-06-27,C0287,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00578,2026-06-27,C0417,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,34,17.0
+A00579,2026-06-27,C0430,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,28,14.0
+A00580,2026-06-28,C0462,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00581,2026-06-28,C0463,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,0,0.0
+A00582,2026-06-28,C0464,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A00583,2026-06-28,C0465,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00584,2026-06-28,C0466,first,Referral,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,0,0,0.0
+A00585,2026-06-28,C0051,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00586,2026-06-28,C0162,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,28,14.0
+A00587,2026-06-28,C0237,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00588,2026-06-28,C0265,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00589,2026-06-28,C0288,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00590,2026-06-28,C0301,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00591,2026-06-28,C0409,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00592,2026-06-30,C0467,first,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00593,2026-06-30,C0468,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00594,2026-06-30,C0469,first,Airbnb Experiences,Airbnb,Gel-X Extensions,90,115,23.0,0,46.0,14,0,0,0.0
+A00595,2026-06-30,C0067,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00596,2026-06-30,C0079,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00597,2026-06-30,C0122,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,34,17.0
+A00598,2026-06-30,C0135,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00599,2026-06-30,C0293,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00600,2026-06-30,C0449,repeat,Instagram Paid Ads,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A00601,2026-07-01,C0470,first,Google Search,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,0,0,0.0
+A00602,2026-07-01,C0471,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00603,2026-07-01,C0472,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,0,0.0
+A00604,2026-07-01,C0082,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,28,14.0
+A00605,2026-07-01,C0118,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00606,2026-07-01,C0206,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00607,2026-07-01,C0464,repeat,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,28,14.0
+A00608,2026-07-02,C0473,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A00609,2026-07-02,C0053,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00610,2026-07-02,C0071,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A00611,2026-07-02,C0193,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00612,2026-07-02,C0255,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00613,2026-07-02,C0417,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,42,21.0
+A00614,2026-07-02,C0470,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,34,17.0
+A00615,2026-07-03,C0474,first,Airbnb Experiences,Airbnb,Natural Nail Care + Nail Art,65,95,19.0,0,38.0,10,0,0,0.0
+A00616,2026-07-03,C0004,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,28,14.0
+A00617,2026-07-03,C0007,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00618,2026-07-03,C0053,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,42,21.0
+A00619,2026-07-03,C0082,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00620,2026-07-03,C0097,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00621,2026-07-03,C0135,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,42,21.0
+A00622,2026-07-03,C0157,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00623,2026-07-03,C0265,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00624,2026-07-04,C0475,first,Instagram Organic,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,18.0,0,0.0
+A00625,2026-07-04,C0476,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,0,0,0.0
+A00626,2026-07-04,C0001,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,11.7,0,0.0
+A00627,2026-07-04,C0030,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00628,2026-07-04,C0065,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00629,2026-07-04,C0073,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00630,2026-07-04,C0088,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00631,2026-07-04,C0120,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00632,2026-07-04,C0131,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,14.3,28,14.0
+A00633,2026-07-04,C0140,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A00634,2026-07-04,C0153,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00635,2026-07-04,C0256,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00636,2026-07-04,C0273,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00637,2026-07-04,C0274,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00638,2026-07-04,C0381,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A00639,2026-07-04,C0431,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00640,2026-07-04,C0454,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,28,14.0
+A00641,2026-07-05,C0477,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A00642,2026-07-05,C0478,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,42,21.0
+A00643,2026-07-05,C0479,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,0,28,14.0
+A00644,2026-07-05,C0018,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A00645,2026-07-05,C0058,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00646,2026-07-05,C0170,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,18.0,34,17.0
+A00647,2026-07-05,C0232,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,28,14.0
+A00648,2026-07-05,C0241,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00649,2026-07-05,C0269,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00650,2026-07-05,C0274,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00651,2026-07-07,C0480,first,Google Search,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00652,2026-07-07,C0481,first,Instagram Organic,Square,Pedicure,60,90,0.0,2.91,36.0,11,18.0,42,21.0
+A00653,2026-07-07,C0482,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00654,2026-07-07,C0483,first,Referral,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00655,2026-07-07,C0025,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A00656,2026-07-07,C0027,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00657,2026-07-07,C0030,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00658,2026-07-07,C0093,repeat,Referral,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,20.9,0,0.0
+A00659,2026-07-07,C0268,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A00660,2026-07-07,C0292,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,42,21.0
+A00661,2026-07-08,C0484,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,0,0,0.0
+A00662,2026-07-08,C0053,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,28,14.0
+A00663,2026-07-08,C0086,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00664,2026-07-08,C0099,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,14.3,0,0.0
+A00665,2026-07-08,C0105,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A00666,2026-07-08,C0174,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00667,2026-07-08,C0197,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00668,2026-07-08,C0339,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00669,2026-07-08,C0427,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,28,14.0
+A00670,2026-07-08,C0477,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00671,2026-07-08,C0480,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00672,2026-07-09,C0485,first,Google Search,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,28,14.0
+A00673,2026-07-09,C0486,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00674,2026-07-09,C0025,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00675,2026-07-09,C0073,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,34,17.0
+A00676,2026-07-09,C0089,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A00677,2026-07-09,C0121,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00678,2026-07-09,C0174,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00679,2026-07-09,C0208,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A00680,2026-07-09,C0220,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00681,2026-07-09,C0481,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00682,2026-07-10,C0487,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00683,2026-07-10,C0014,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,19.0,0,0.0
+A00684,2026-07-10,C0081,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00685,2026-07-10,C0099,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,19.0,0,0.0
+A00686,2026-07-10,C0126,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00687,2026-07-10,C0137,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00688,2026-07-10,C0153,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,34,17.0
+A00689,2026-07-10,C0175,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00690,2026-07-10,C0212,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,34,17.0
+A00691,2026-07-10,C0234,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,42,21.0
+A00692,2026-07-10,C0235,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00693,2026-07-10,C0262,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,28,14.0
+A00694,2026-07-10,C0459,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00695,2026-07-10,C0466,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00696,2026-07-11,C0488,first,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00697,2026-07-11,C0489,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00698,2026-07-11,C0490,first,Referral,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,0,0.0
+A00699,2026-07-11,C0032,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00700,2026-07-11,C0043,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,34,17.0
+A00701,2026-07-11,C0138,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00702,2026-07-11,C0153,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00703,2026-07-11,C0162,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00704,2026-07-11,C0483,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,28,14.0
+A00705,2026-07-12,C0491,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,16.2,0,0.0
+A00706,2026-07-12,C0492,first,Referral,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,18.0,0,0.0
+A00707,2026-07-12,C0021,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00708,2026-07-12,C0042,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00709,2026-07-12,C0148,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00710,2026-07-12,C0230,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00711,2026-07-12,C0251,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00712,2026-07-12,C0265,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,34,17.0
+A00713,2026-07-12,C0291,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00714,2026-07-14,C0493,first,Google Search,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00715,2026-07-14,C0091,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A00716,2026-07-14,C0098,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00717,2026-07-14,C0133,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00718,2026-07-14,C0217,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,28,14.0
+A00719,2026-07-14,C0270,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00720,2026-07-14,C0278,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,19.0,34,17.0
+A00721,2026-07-14,C0300,repeat,Referral,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,19.0,42,21.0
+A00722,2026-07-14,C0323,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00723,2026-07-14,C0427,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00724,2026-07-14,C0459,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00725,2026-07-15,C0494,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,0,0,0.0
+A00726,2026-07-15,C0495,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,42,21.0
+A00727,2026-07-15,C0042,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00728,2026-07-15,C0047,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00729,2026-07-15,C0076,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00730,2026-07-15,C0081,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00731,2026-07-15,C0197,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00732,2026-07-15,C0218,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A00733,2026-07-15,C0235,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A00734,2026-07-15,C0243,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,34,17.0
+A00735,2026-07-15,C0275,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00736,2026-07-15,C0305,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00737,2026-07-15,C0339,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A00738,2026-07-15,C0466,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A00739,2026-07-16,C0496,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00740,2026-07-16,C0497,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00741,2026-07-16,C0498,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00742,2026-07-16,C0001,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A00743,2026-07-16,C0065,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00744,2026-07-16,C0088,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00745,2026-07-16,C0135,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00746,2026-07-16,C0189,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00747,2026-07-16,C0290,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00748,2026-07-16,C0300,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00749,2026-07-17,C0499,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,29.0,42,21.0
+A00750,2026-07-17,C0500,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00751,2026-07-17,C0501,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00752,2026-07-17,C0036,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A00753,2026-07-17,C0050,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00754,2026-07-17,C0051,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00755,2026-07-17,C0078,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00756,2026-07-17,C0097,repeat,Instagram Organic,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,17.1,28,14.0
+A00757,2026-07-17,C0111,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,42,21.0
+A00758,2026-07-17,C0146,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00759,2026-07-17,C0147,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00760,2026-07-17,C0157,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00761,2026-07-17,C0186,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00762,2026-07-17,C0232,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,42,21.0
+A00763,2026-07-18,C0502,first,Instagram Organic,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,14.3,34,17.0
+A00764,2026-07-18,C0503,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00765,2026-07-18,C0001,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00766,2026-07-18,C0034,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00767,2026-07-18,C0045,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00768,2026-07-18,C0050,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,34,17.0
+A00769,2026-07-18,C0063,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00770,2026-07-18,C0075,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00771,2026-07-18,C0111,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A00772,2026-07-18,C0148,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00773,2026-07-18,C0172,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,42,21.0
+A00774,2026-07-18,C0264,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,34,17.0
+A00775,2026-07-18,C0298,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00776,2026-07-18,C0452,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A00777,2026-07-18,C0480,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00778,2026-07-19,C0504,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A00779,2026-07-19,C0505,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00780,2026-07-19,C0506,first,Airbnb Experiences,Airbnb,Structured Manicure,75,85,17.0,0,34.0,10,0,0,0.0
+A00781,2026-07-19,C0507,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,42,21.0
+A00782,2026-07-19,C0114,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00783,2026-07-19,C0157,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00784,2026-07-19,C0368,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00785,2026-07-19,C0382,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00786,2026-07-21,C0508,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,0,0,0.0
+A00787,2026-07-21,C0509,first,ClassPass,ClassPass,Russian Manicure + Nail Art,95,125,56.25,0,50.0,13,0,0,0.0
+A00788,2026-07-21,C0031,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00789,2026-07-21,C0045,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,42,21.0
+A00790,2026-07-21,C0088,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A00791,2026-07-21,C0232,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,11.7,0,0.0
+A00792,2026-07-21,C0263,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00793,2026-07-21,C0339,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,34,17.0
+A00794,2026-07-21,C0448,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,42,21.0
+A00795,2026-07-22,C0510,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00796,2026-07-22,C0511,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00797,2026-07-22,C0012,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,34,17.0
+A00798,2026-07-22,C0091,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00799,2026-07-22,C0092,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,42,21.0
+A00800,2026-07-22,C0169,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00801,2026-07-22,C0175,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A00802,2026-07-22,C0265,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,42,21.0
+A00803,2026-07-23,C0512,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,18.0,0,0.0
+A00804,2026-07-23,C0513,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00805,2026-07-23,C0514,first,Instagram Paid Ads,Square,Natural Nail Care + Nail Art,65,95,0.0,3.06,38.0,10,19.0,0,0.0
+A00806,2026-07-23,C0007,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00807,2026-07-23,C0014,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,28,14.0
+A00808,2026-07-23,C0075,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,42,21.0
+A00809,2026-07-23,C0133,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00810,2026-07-23,C0154,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00811,2026-07-23,C0226,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,28,14.0
+A00812,2026-07-23,C0267,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,42,21.0
+A00813,2026-07-23,C0477,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,28,14.0
+A00814,2026-07-23,C0509,repeat,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00815,2026-07-24,C0515,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,19.8,42,21.0
+A00816,2026-07-24,C0516,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,28,14.0
+A00817,2026-07-24,C0517,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00818,2026-07-24,C0518,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00819,2026-07-24,C0003,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A00820,2026-07-24,C0013,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00821,2026-07-24,C0092,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00822,2026-07-24,C0137,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00823,2026-07-24,C0146,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00824,2026-07-24,C0181,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,28,14.0
+A00825,2026-07-24,C0269,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00826,2026-07-24,C0475,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00827,2026-07-25,C0519,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00828,2026-07-25,C0520,first,Airbnb Experiences,Airbnb,Structured Manicure,75,85,17.0,0,34.0,10,0,0,0.0
+A00829,2026-07-25,C0009,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00830,2026-07-25,C0098,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A00831,2026-07-25,C0144,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00832,2026-07-25,C0260,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00833,2026-07-25,C0404,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00834,2026-07-25,C0462,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00835,2026-07-26,C0521,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,0,0,0.0
+A00836,2026-07-26,C0522,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A00837,2026-07-26,C0523,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00838,2026-07-26,C0071,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00839,2026-07-26,C0119,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,17.1,34,17.0
+A00840,2026-07-26,C0154,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00841,2026-07-26,C0206,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00842,2026-07-26,C0235,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00843,2026-07-26,C0243,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00844,2026-07-26,C0255,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A00845,2026-07-26,C0371,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A00846,2026-07-26,C0410,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00847,2026-07-26,C0414,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00848,2026-07-26,C0475,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00849,2026-07-28,C0524,first,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,17.25,34,17.0
+A00850,2026-07-28,C0058,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00851,2026-07-28,C0067,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,34,17.0
+A00852,2026-07-28,C0108,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00853,2026-07-28,C0230,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00854,2026-07-28,C0257,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00855,2026-07-28,C0356,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,34,17.0
+A00856,2026-07-28,C0481,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A00857,2026-07-29,C0525,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00858,2026-07-29,C0526,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00859,2026-07-29,C0527,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,34,17.0
+A00860,2026-07-29,C0013,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00861,2026-07-29,C0021,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00862,2026-07-29,C0149,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,34,17.0
+A00863,2026-07-29,C0455,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,42,21.0
+A00864,2026-07-29,C0512,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,28,14.0
+A00865,2026-07-30,C0528,first,Instagram Paid Ads,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,31.9,0,0.0
+A00866,2026-07-30,C0529,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00867,2026-07-30,C0093,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,0,28,14.0
+A00868,2026-07-30,C0122,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00869,2026-07-30,C0137,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,42,21.0
+A00870,2026-07-30,C0146,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,34,17.0
+A00871,2026-07-30,C0148,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,0,28,14.0
+A00872,2026-07-30,C0182,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,34,17.0
+A00873,2026-07-30,C0193,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00874,2026-07-30,C0199,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00875,2026-07-30,C0208,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A00876,2026-07-30,C0212,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00877,2026-07-30,C0340,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00878,2026-07-31,C0530,first,Google Search,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,11.7,34,17.0
+A00879,2026-07-31,C0088,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A00880,2026-07-31,C0099,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00881,2026-07-31,C0132,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A00882,2026-07-31,C0178,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00883,2026-07-31,C0222,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00884,2026-07-31,C0235,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A00885,2026-07-31,C0243,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00886,2026-07-31,C0500,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00887,2026-08-01,C0531,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00888,2026-08-01,C0532,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A00889,2026-08-01,C0533,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00890,2026-08-01,C0205,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,28,14.0
+A00891,2026-08-01,C0208,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,28,14.0
+A00892,2026-08-01,C0513,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,42,21.0
+A00893,2026-08-02,C0534,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,42,21.0
+A00894,2026-08-02,C0535,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00895,2026-08-02,C0536,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00896,2026-08-02,C0018,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00897,2026-08-02,C0021,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,42,21.0
+A00898,2026-08-02,C0081,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,42,21.0
+A00899,2026-08-02,C0131,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00900,2026-08-02,C0239,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,28,14.0
+A00901,2026-08-02,C0300,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A00902,2026-08-02,C0523,repeat,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00903,2026-08-04,C0537,first,Google Search,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,11.7,28,14.0
+A00904,2026-08-04,C0538,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,34,17.0
+A00905,2026-08-04,C0539,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,0,0.0
+A00906,2026-08-04,C0014,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00907,2026-08-04,C0058,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00908,2026-08-04,C0138,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A00909,2026-08-04,C0234,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A00910,2026-08-04,C0472,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,34,17.0
+A00911,2026-08-04,C0477,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00912,2026-08-05,C0540,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,0,0.0
+A00913,2026-08-05,C0541,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,34,17.0
+A00914,2026-08-05,C0542,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00915,2026-08-05,C0008,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00916,2026-08-05,C0182,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00917,2026-08-05,C0264,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,34,17.0
+A00918,2026-08-05,C0340,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00919,2026-08-06,C0543,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A00920,2026-08-06,C0544,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A00921,2026-08-06,C0545,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A00922,2026-08-06,C0109,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00923,2026-08-06,C0148,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00924,2026-08-06,C0223,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00925,2026-08-06,C0241,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A00926,2026-08-06,C0298,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,34,17.0
+A00927,2026-08-06,C0411,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00928,2026-08-06,C0440,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A00929,2026-08-06,C0472,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,34,17.0
+A00930,2026-08-06,C0505,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,28,14.0
+A00931,2026-08-07,C0546,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00932,2026-08-07,C0547,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,34,17.0
+A00933,2026-08-07,C0548,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00934,2026-08-07,C0014,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A00935,2026-08-07,C0027,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,28,14.0
+A00936,2026-08-07,C0030,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00937,2026-08-07,C0073,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,42,21.0
+A00938,2026-08-07,C0157,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,34,17.0
+A00939,2026-08-07,C0234,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00940,2026-08-07,C0243,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,28,14.0
+A00941,2026-08-07,C0512,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,11.7,0,0.0
+A00942,2026-08-07,C0540,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00943,2026-08-08,C0549,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A00944,2026-08-08,C0550,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A00945,2026-08-08,C0551,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,31.9,0,0.0
+A00946,2026-08-08,C0552,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00947,2026-08-08,C0033,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00948,2026-08-08,C0041,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A00949,2026-08-08,C0082,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A00950,2026-08-08,C0241,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A00951,2026-08-08,C0477,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,34,17.0
+A00952,2026-08-09,C0553,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,19.8,0,0.0
+A00953,2026-08-09,C0554,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A00954,2026-08-09,C0555,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00955,2026-08-09,C0556,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A00956,2026-08-09,C0557,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00957,2026-08-09,C0077,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,34,17.0
+A00958,2026-08-09,C0144,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A00959,2026-08-09,C0255,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,34,17.0
+A00960,2026-08-09,C0270,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A00961,2026-08-09,C0538,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A00962,2026-08-09,C0552,repeat,Airbnb Experiences,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A00963,2026-08-11,C0558,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A00964,2026-08-11,C0559,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,28,14.0
+A00965,2026-08-11,C0042,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A00966,2026-08-11,C0160,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A00967,2026-08-11,C0181,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A00968,2026-08-11,C0253,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,28,14.0
+A00969,2026-08-11,C0404,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00970,2026-08-11,C0484,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,42,21.0
+A00971,2026-08-12,C0560,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,28,14.0
+A00972,2026-08-12,C0561,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A00973,2026-08-12,C0562,first,Instagram Paid Ads,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,29.0,0,0.0
+A00974,2026-08-12,C0563,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,0,0.0
+A00975,2026-08-12,C0564,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A00976,2026-08-12,C0018,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00977,2026-08-12,C0076,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00978,2026-08-12,C0091,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A00979,2026-08-12,C0199,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00980,2026-08-12,C0225,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,42,21.0
+A00981,2026-08-12,C0263,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,34,17.0
+A00982,2026-08-12,C0265,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,28,14.0
+A00983,2026-08-12,C0278,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A00984,2026-08-12,C0466,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A00985,2026-08-12,C0488,repeat,Instagram Paid Ads,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A00986,2026-08-13,C0565,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A00987,2026-08-13,C0566,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,0,0.0
+A00988,2026-08-13,C0567,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A00989,2026-08-13,C0568,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A00990,2026-08-13,C0569,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A00991,2026-08-13,C0570,first,Referral,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,23.0,0,0.0
+A00992,2026-08-13,C0033,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,42,21.0
+A00993,2026-08-13,C0137,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A00994,2026-08-13,C0197,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A00995,2026-08-13,C0243,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A00996,2026-08-13,C0278,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A00997,2026-08-13,C0530,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A00998,2026-08-13,C0559,repeat,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A00999,2026-08-14,C0571,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01000,2026-08-14,C0572,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,34,17.0
+A01001,2026-08-14,C0573,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A01002,2026-08-14,C0574,first,Referral,Square,Pedicure,60,90,0.0,2.91,36.0,11,13.5,28,14.0
+A01003,2026-08-14,C0131,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,28,14.0
+A01004,2026-08-14,C0149,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,28,14.0
+A01005,2026-08-14,C0193,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01006,2026-08-14,C0427,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,42,21.0
+A01007,2026-08-14,C0504,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01008,2026-08-15,C0575,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A01009,2026-08-15,C0576,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A01010,2026-08-15,C0577,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,29.0,34,17.0
+A01011,2026-08-15,C0578,first,Airbnb Experiences,Airbnb,Natural Nail Care,45,65,13.0,0,26.0,6,0,0,0.0
+A01012,2026-08-15,C0579,first,Referral,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,42,21.0
+A01013,2026-08-15,C0112,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01014,2026-08-15,C0249,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,18.0,42,21.0
+A01015,2026-08-16,C0580,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,0,0,0.0
+A01016,2026-08-16,C0581,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A01017,2026-08-16,C0582,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01018,2026-08-16,C0583,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01019,2026-08-16,C0584,first,Referral,Square,Pedicure,60,90,0.0,2.91,36.0,11,19.8,0,0.0
+A01020,2026-08-16,C0027,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01021,2026-08-16,C0066,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01022,2026-08-16,C0088,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,28,14.0
+A01023,2026-08-16,C0099,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01024,2026-08-16,C0119,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,42,21.0
+A01025,2026-08-16,C0131,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,34,17.0
+A01026,2026-08-16,C0140,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,0,34,17.0
+A01027,2026-08-16,C0372,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,34,17.0
+A01028,2026-08-16,C0410,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A01029,2026-08-18,C0585,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A01030,2026-08-18,C0586,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01031,2026-08-18,C0587,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,0,0.0
+A01032,2026-08-18,C0588,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01033,2026-08-18,C0589,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A01034,2026-08-18,C0073,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01035,2026-08-18,C0091,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,42,21.0
+A01036,2026-08-18,C0101,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01037,2026-08-18,C0111,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01038,2026-08-18,C0154,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01039,2026-08-18,C0278,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01040,2026-08-18,C0323,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A01041,2026-08-18,C0538,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01042,2026-08-18,C0574,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01043,2026-08-19,C0590,first,Google Search,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,24.0,0,0.0
+A01044,2026-08-19,C0591,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,34,17.0
+A01045,2026-08-19,C0592,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01046,2026-08-19,C0593,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,29.0,0,0.0
+A01047,2026-08-19,C0594,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,0,0,0.0
+A01048,2026-08-19,C0595,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01049,2026-08-19,C0098,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,28,14.0
+A01050,2026-08-19,C0185,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01051,2026-08-19,C0209,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01052,2026-08-19,C0470,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,42,21.0
+A01053,2026-08-19,C0540,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01054,2026-08-19,C0575,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01055,2026-08-20,C0043,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A01056,2026-08-20,C0194,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A01057,2026-08-20,C0199,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A01058,2026-08-20,C0249,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01059,2026-08-20,C0255,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,34,17.0
+A01060,2026-08-20,C0278,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A01061,2026-08-20,C0404,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A01062,2026-08-20,C0586,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01063,2026-08-21,C0596,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,0,0.0
+A01064,2026-08-21,C0597,first,Referral,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,21.75,0,0.0
+A01065,2026-08-21,C0122,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A01066,2026-08-21,C0286,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A01067,2026-08-21,C0372,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01068,2026-08-21,C0410,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01069,2026-08-21,C0543,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A01070,2026-08-21,C0586,repeat,Instagram Organic,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,0,0,0.0
+A01071,2026-08-22,C0598,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,26.1,0,0.0
+A01072,2026-08-22,C0599,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A01073,2026-08-22,C0600,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01074,2026-08-22,C0027,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A01075,2026-08-22,C0118,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01076,2026-08-22,C0181,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,28,14.0
+A01077,2026-08-22,C0192,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01078,2026-08-22,C0226,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A01079,2026-08-22,C0249,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01080,2026-08-22,C0270,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01081,2026-08-22,C0440,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A01082,2026-08-22,C0459,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,42,21.0
+A01083,2026-08-22,C0484,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A01084,2026-08-23,C0601,first,Google Search,Square,Natural Nail Care + Nail Art,65,95,0.0,3.06,38.0,10,0,0,0.0
+A01085,2026-08-23,C0602,first,Instagram Organic,Square,Pedicure,60,90,0.0,2.91,36.0,11,16.2,0,0.0
+A01086,2026-08-23,C0603,first,Instagram Paid Ads,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,22.5,0,0.0
+A01087,2026-08-23,C0604,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A01088,2026-08-23,C0086,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01089,2026-08-23,C0092,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01090,2026-08-23,C0111,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,42,21.0
+A01091,2026-08-23,C0121,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A01092,2026-08-23,C0134,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,34,17.0
+A01093,2026-08-23,C0135,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01094,2026-08-23,C0197,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01095,2026-08-23,C0459,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,34,17.0
+A01096,2026-08-25,C0605,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,0,0.0
+A01097,2026-08-25,C0606,first,Instagram Organic,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,18.0,0,0.0
+A01098,2026-08-25,C0607,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01099,2026-08-25,C0608,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A01100,2026-08-25,C0031,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,34,17.0
+A01101,2026-08-25,C0043,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A01102,2026-08-25,C0126,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01103,2026-08-25,C0177,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A01104,2026-08-25,C0234,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,42,21.0
+A01105,2026-08-26,C0609,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,0,0.0
+A01106,2026-08-26,C0610,first,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,26.1,0,0.0
+A01107,2026-08-26,C0611,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,0,0.0
+A01108,2026-08-26,C0007,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A01109,2026-08-26,C0066,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01110,2026-08-26,C0078,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A01111,2026-08-26,C0162,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A01112,2026-08-26,C0483,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,28,14.0
+A01113,2026-08-26,C0507,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01114,2026-08-26,C0553,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,28,14.0
+A01115,2026-08-27,C0612,first,Google Search,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,0,0,0.0
+A01116,2026-08-27,C0613,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01117,2026-08-27,C0614,first,Instagram Paid Ads,Square,Pedicure,60,90,0.0,2.91,36.0,11,19.8,28,14.0
+A01118,2026-08-27,C0615,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A01119,2026-08-27,C0616,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01120,2026-08-27,C0108,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A01121,2026-08-27,C0133,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A01122,2026-08-27,C0140,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A01123,2026-08-27,C0206,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A01124,2026-08-27,C0234,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A01125,2026-08-27,C0272,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,28,14.0
+A01126,2026-08-27,C0494,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A01127,2026-08-27,C0520,repeat,Airbnb Experiences,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,34,17.0
+A01128,2026-08-28,C0617,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01129,2026-08-28,C0027,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A01130,2026-08-28,C0123,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,0,0,0.0
+A01131,2026-08-28,C0199,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01132,2026-08-28,C0260,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,34,17.0
+A01133,2026-08-28,C0343,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A01134,2026-08-28,C0455,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,42,21.0
+A01135,2026-08-28,C0508,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,42,21.0
+A01136,2026-08-28,C0512,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A01137,2026-08-28,C0542,repeat,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01138,2026-08-28,C0604,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A01139,2026-08-28,C0606,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,42,21.0
+A01140,2026-08-29,C0005,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01141,2026-08-29,C0135,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,42,21.0
+A01142,2026-08-29,C0160,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A01143,2026-08-29,C0245,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01144,2026-08-29,C0260,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01145,2026-08-29,C0272,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01146,2026-08-29,C0454,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A01147,2026-08-30,C0618,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01148,2026-08-30,C0619,first,Instagram Paid Ads,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,21.75,0,0.0
+A01149,2026-08-30,C0620,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01150,2026-08-30,C0027,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01151,2026-08-30,C0160,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,34,17.0
+A01152,2026-08-30,C0286,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A01153,2026-08-30,C0528,repeat,Instagram Paid Ads,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,42,21.0
+A01154,2026-08-30,C0582,repeat,Influencer Collab,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01155,2026-08-30,C0607,repeat,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01156,2026-09-01,C0621,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01157,2026-09-01,C0622,first,Instagram Organic,Square,Pedicure,60,90,0.0,2.91,36.0,11,16.2,0,0.0
+A01158,2026-09-01,C0623,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01159,2026-09-01,C0007,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A01160,2026-09-01,C0142,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A01161,2026-09-01,C0168,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A01162,2026-09-01,C0414,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,34,17.0
+A01163,2026-09-01,C0586,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A01164,2026-09-02,C0624,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,16.2,0,0.0
+A01165,2026-09-02,C0625,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01166,2026-09-02,C0626,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01167,2026-09-02,C0098,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01168,2026-09-02,C0209,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01169,2026-09-02,C0414,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A01170,2026-09-02,C0483,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01171,2026-09-02,C0549,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,17.25,0,0.0
+A01172,2026-09-02,C0574,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,28,14.0
+A01173,2026-09-03,C0627,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,28,14.0
+A01174,2026-09-03,C0628,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,34,17.0
+A01175,2026-09-03,C0629,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01176,2026-09-03,C0540,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01177,2026-09-04,C0630,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,28,14.0
+A01178,2026-09-04,C0631,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A01179,2026-09-04,C0071,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01180,2026-09-04,C0099,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,42,21.0
+A01181,2026-09-04,C0160,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,34,17.0
+A01182,2026-09-04,C0265,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A01183,2026-09-04,C0272,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A01184,2026-09-04,C0458,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A01185,2026-09-05,C0632,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,16.2,0,0.0
+A01186,2026-09-05,C0633,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,0,0.0
+A01187,2026-09-05,C0012,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01188,2026-09-05,C0050,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01189,2026-09-05,C0079,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,42,21.0
+A01190,2026-09-05,C0097,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A01191,2026-09-05,C0565,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01192,2026-09-06,C0634,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,0,34,17.0
+A01193,2026-09-06,C0635,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,34,17.0
+A01194,2026-09-06,C0636,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01195,2026-09-06,C0637,first,Referral,Square,Pedicure,60,90,0.0,2.91,36.0,11,19.8,0,0.0
+A01196,2026-09-06,C0031,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,28,14.0
+A01197,2026-09-06,C0078,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,34,17.0
+A01198,2026-09-06,C0298,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A01199,2026-09-06,C0543,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01200,2026-09-08,C0638,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A01201,2026-09-08,C0639,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01202,2026-09-08,C0159,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01203,2026-09-08,C0584,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01204,2026-09-08,C0628,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,34,17.0
+A01205,2026-09-08,C0635,repeat,Instagram Paid Ads,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A01206,2026-09-09,C0640,first,Instagram Organic,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,24.0,42,21.0
+A01207,2026-09-09,C0641,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01208,2026-09-09,C0019,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,34,17.0
+A01209,2026-09-09,C0168,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A01210,2026-09-09,C0368,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01211,2026-09-09,C0473,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A01212,2026-09-09,C0558,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,42,21.0
+A01213,2026-09-10,C0642,first,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A01214,2026-09-10,C0643,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01215,2026-09-10,C0005,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01216,2026-09-10,C0012,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01217,2026-09-10,C0077,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01218,2026-09-10,C0151,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01219,2026-09-10,C0159,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01220,2026-09-10,C0410,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,28,14.0
+A01221,2026-09-10,C0454,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A01222,2026-09-11,C0644,first,Instagram Organic,Square,Natural Nail Care + Nail Art,65,95,0.0,3.06,38.0,10,0,0,0.0
+A01223,2026-09-11,C0645,first,Referral,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,26.1,34,17.0
+A01224,2026-09-11,C0009,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01225,2026-09-11,C0019,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01226,2026-09-11,C0042,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01227,2026-09-11,C0133,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A01228,2026-09-11,C0144,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,0,0.0
+A01229,2026-09-11,C0147,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,42,21.0
+A01230,2026-09-11,C0159,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01231,2026-09-11,C0230,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,28,14.0
+A01232,2026-09-11,C0512,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,14.3,0,0.0
+A01233,2026-09-12,C0646,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,34,17.0
+A01234,2026-09-12,C0001,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01235,2026-09-12,C0019,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A01236,2026-09-12,C0060,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,42,21.0
+A01237,2026-09-12,C0077,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A01238,2026-09-12,C0131,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01239,2026-09-12,C0149,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,34,17.0
+A01240,2026-09-12,C0512,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01241,2026-09-12,C0628,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A01242,2026-09-13,C0647,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A01243,2026-09-13,C0648,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,28,14.0
+A01244,2026-09-13,C0649,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01245,2026-09-13,C0133,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A01246,2026-09-13,C0286,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,42,21.0
+A01247,2026-09-13,C0601,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A01248,2026-09-13,C0637,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01249,2026-09-15,C0650,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A01250,2026-09-15,C0651,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,0,0.0
+A01251,2026-09-15,C0652,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01252,2026-09-15,C0065,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A01253,2026-09-15,C0218,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01254,2026-09-15,C0455,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,34,17.0
+A01255,2026-09-16,C0653,first,Instagram Paid Ads,Square,Pedicure,60,90,0.0,2.91,36.0,11,0,34,17.0
+A01256,2026-09-16,C0654,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01257,2026-09-16,C0655,first,Airbnb Experiences,Airbnb,Gel-X Extensions,90,115,23.0,0,46.0,14,0,0,0.0
+A01258,2026-09-16,C0656,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01259,2026-09-16,C0001,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,18.0,0,0.0
+A01260,2026-09-16,C0067,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01261,2026-09-16,C0105,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A01262,2026-09-16,C0151,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01263,2026-09-16,C0154,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A01264,2026-09-16,C0199,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A01265,2026-09-16,C0239,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01266,2026-09-16,C0270,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A01267,2026-09-16,C0459,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A01268,2026-09-16,C0580,repeat,Instagram Organic,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,19.0,0,0.0
+A01269,2026-09-17,C0657,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A01270,2026-09-17,C0658,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,42,21.0
+A01271,2026-09-17,C0659,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01272,2026-09-17,C0660,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,28,14.0
+A01273,2026-09-17,C0009,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01274,2026-09-17,C0154,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01275,2026-09-17,C0160,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A01276,2026-09-17,C0197,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01277,2026-09-18,C0661,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A01278,2026-09-18,C0662,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A01279,2026-09-18,C0663,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01280,2026-09-19,C0664,first,Referral,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,31.9,0,0.0
+A01281,2026-09-19,C0147,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,34,17.0
+A01282,2026-09-19,C0248,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01283,2026-09-19,C0284,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,42,21.0
+A01284,2026-09-19,C0372,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A01285,2026-09-19,C0459,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01286,2026-09-19,C0528,repeat,Instagram Paid Ads,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A01287,2026-09-19,C0571,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A01288,2026-09-19,C0601,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01289,2026-09-20,C0665,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,42,21.0
+A01290,2026-09-20,C0666,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01291,2026-09-20,C0667,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01292,2026-09-20,C0668,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A01293,2026-09-20,C0005,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01294,2026-09-20,C0043,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01295,2026-09-20,C0159,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A01296,2026-09-20,C0288,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A01297,2026-09-20,C0291,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01298,2026-09-20,C0546,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01299,2026-09-20,C0645,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,28,14.0
+A01300,2026-09-20,C0647,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,15.3,0,0.0
+A01301,2026-09-22,C0669,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,42,21.0
+A01302,2026-09-22,C0670,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,22.5,0,0.0
+A01303,2026-09-22,C0065,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A01304,2026-09-22,C0119,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A01305,2026-09-22,C0260,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A01306,2026-09-22,C0339,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,42,21.0
+A01307,2026-09-22,C0589,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,34,17.0
+A01308,2026-09-23,C0671,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01309,2026-09-23,C0118,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01310,2026-09-23,C0119,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,42,21.0
+A01311,2026-09-23,C0149,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01312,2026-09-23,C0206,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,0,0.0
+A01313,2026-09-23,C0218,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,0,0.0
+A01314,2026-09-23,C0286,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01315,2026-09-23,C0291,repeat,Referral,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,20.9,0,0.0
+A01316,2026-09-23,C0473,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A01317,2026-09-23,C0670,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,34,17.0
+A01318,2026-09-24,C0672,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,42,21.0
+A01319,2026-09-24,C0673,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01320,2026-09-24,C0109,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A01321,2026-09-24,C0137,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01322,2026-09-24,C0507,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A01323,2026-09-24,C0521,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A01324,2026-09-24,C0579,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01325,2026-09-24,C0605,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,11.7,28,14.0
+A01326,2026-09-24,C0645,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01327,2026-09-25,C0674,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01328,2026-09-25,C0675,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,0,0,0.0
+A01329,2026-09-25,C0100,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,42,21.0
+A01330,2026-09-25,C0519,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A01331,2026-09-25,C0588,repeat,ClassPass,ClassPass,Natural Nail Care + Nail Art,65,95,42.75,0,38.0,10,0,0,0.0
+A01332,2026-09-26,C0676,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,42,21.0
+A01333,2026-09-26,C0677,first,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,0,0.0
+A01334,2026-09-26,C0678,first,Airbnb Experiences,Airbnb,Russian Manicure + Nail Art,95,125,25.0,0,50.0,13,0,0,0.0
+A01335,2026-09-26,C0047,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01336,2026-09-26,C0134,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01337,2026-09-26,C0144,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01338,2026-09-26,C0440,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,0,0.0
+A01339,2026-09-27,C0679,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A01340,2026-09-27,C0680,first,Instagram Organic,Square,Pedicure,60,90,0.0,2.91,36.0,11,19.8,0,0.0
+A01341,2026-09-27,C0681,first,Referral,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,24.0,34,17.0
+A01342,2026-09-27,C0104,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,34,17.0
+A01343,2026-09-27,C0121,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01344,2026-09-27,C0235,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,28,14.0
+A01345,2026-09-27,C0291,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01346,2026-09-27,C0627,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A01347,2026-09-29,C0682,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,42,21.0
+A01348,2026-09-29,C0683,first,Referral,Square,Pedicure,60,90,0.0,2.91,36.0,11,0,0,0.0
+A01349,2026-09-29,C0021,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01350,2026-09-29,C0073,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01351,2026-09-29,C0077,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01352,2026-09-29,C0105,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01353,2026-09-29,C0670,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,28,14.0
+A01354,2026-09-30,C0684,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,13.5,34,17.0
+A01355,2026-09-30,C0685,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01356,2026-09-30,C0686,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A01357,2026-09-30,C0687,first,Referral,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,28,14.0
+A01358,2026-09-30,C0604,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01359,2026-09-30,C0680,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A01360,2026-10-01,C0688,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01361,2026-10-01,C0689,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A01362,2026-10-01,C0690,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,34,17.0
+A01363,2026-10-01,C0691,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,42,21.0
+A01364,2026-10-01,C0692,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A01365,2026-10-01,C0097,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01366,2026-10-01,C0206,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,28,14.0
+A01367,2026-10-01,C0223,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,42,21.0
+A01368,2026-10-01,C0601,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01369,2026-10-01,C0671,repeat,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01370,2026-10-02,C0693,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,25.0,0,0.0
+A01371,2026-10-02,C0694,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,29.0,28,14.0
+A01372,2026-10-02,C0695,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A01373,2026-10-02,C0218,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,28,14.0
+A01374,2026-10-02,C0260,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01375,2026-10-02,C0291,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01376,2026-10-02,C0571,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,23.0,28,14.0
+A01377,2026-10-02,C0637,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A01378,2026-10-03,C0696,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,28,14.0
+A01379,2026-10-03,C0697,first,Instagram Paid Ads,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,0,42,21.0
+A01380,2026-10-03,C0698,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,34,17.0
+A01381,2026-10-03,C0699,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A01382,2026-10-03,C0700,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01383,2026-10-03,C0067,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,26.4,42,21.0
+A01384,2026-10-03,C0121,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,0,0.0
+A01385,2026-10-03,C0126,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,0,0.0
+A01386,2026-10-03,C0218,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,25.3,0,0.0
+A01387,2026-10-03,C0549,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,17.1,34,17.0
+A01388,2026-10-03,C0611,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01389,2026-10-04,C0701,first,Google Search,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,0,0.0
+A01390,2026-10-04,C0702,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A01391,2026-10-04,C0703,first,Instagram Paid Ads,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A01392,2026-10-04,C0704,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A01393,2026-10-04,C0705,first,Airbnb Experiences,Airbnb,Gel-X Extensions,90,115,23.0,0,46.0,14,0,0,0.0
+A01394,2026-10-04,C0706,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01395,2026-10-04,C0031,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,42,21.0
+A01396,2026-10-04,C0131,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A01397,2026-10-04,C0213,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01398,2026-10-04,C0611,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01399,2026-10-04,C0674,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A01400,2026-10-06,C0707,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,28,14.0
+A01401,2026-10-06,C0708,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,28,14.0
+A01402,2026-10-06,C0709,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,21.75,42,21.0
+A01403,2026-10-06,C0710,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A01404,2026-10-06,C0711,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01405,2026-10-06,C0131,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01406,2026-10-06,C0225,repeat,Google Search,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,19.0,0,0.0
+A01407,2026-10-07,C0712,first,Google Search,Square,Natural Nail Care,45,65,0.0,2.19,26.0,6,13.0,0,0.0
+A01408,2026-10-07,C0713,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01409,2026-10-07,C0714,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A01410,2026-10-07,C0715,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A01411,2026-10-07,C0716,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01412,2026-10-07,C0079,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A01413,2026-10-07,C0140,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A01414,2026-10-07,C0483,repeat,Referral,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A01415,2026-10-07,C0531,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01416,2026-10-07,C0560,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,0,0.0
+A01417,2026-10-08,C0717,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A01418,2026-10-08,C0718,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,42,21.0
+A01419,2026-10-08,C0719,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,42,21.0
+A01420,2026-10-08,C0720,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01421,2026-10-08,C0721,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A01422,2026-10-08,C0003,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,34,17.0
+A01423,2026-10-08,C0097,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A01424,2026-10-08,C0239,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01425,2026-10-08,C0241,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01426,2026-10-08,C0293,repeat,Google Search,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A01427,2026-10-08,C0448,repeat,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A01428,2026-10-08,C0698,repeat,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,25.3,0,0.0
+A01429,2026-10-08,C0702,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A01430,2026-10-09,C0722,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,17.25,0,0.0
+A01431,2026-10-09,C0723,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A01432,2026-10-09,C0050,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01433,2026-10-09,C0222,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01434,2026-10-09,C0265,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A01435,2026-10-09,C0601,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,42,21.0
+A01436,2026-10-10,C0724,first,Instagram Paid Ads,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A01437,2026-10-10,C0725,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,0,0.0
+A01438,2026-10-10,C0726,first,Influencer Collab,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A01439,2026-10-10,C0727,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01440,2026-10-10,C0728,first,Referral,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,22.5,0,0.0
+A01441,2026-10-10,C0073,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A01442,2026-10-10,C0110,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A01443,2026-10-10,C0160,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,16.2,0,0.0
+A01444,2026-10-10,C0222,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01445,2026-10-10,C0455,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,42,21.0
+A01446,2026-10-10,C0642,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01447,2026-10-10,C0682,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A01448,2026-10-10,C0694,repeat,Influencer Collab,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A01449,2026-10-11,C0729,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A01450,2026-10-11,C0730,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,14.25,0,0.0
+A01451,2026-10-11,C0731,first,Instagram Paid Ads,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,0,0.0
+A01452,2026-10-11,C0732,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,42,21.0
+A01453,2026-10-11,C0733,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01454,2026-10-11,C0270,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01455,2026-10-11,C0579,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A01456,2026-10-13,C0734,first,Instagram Organic,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A01457,2026-10-13,C0735,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,34,17.0
+A01458,2026-10-13,C0736,first,Influencer Collab,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,31.9,0,0.0
+A01459,2026-10-13,C0737,first,Airbnb Experiences,Airbnb,Russian Manicure,75,95,19.0,0,38.0,9,0,0,0.0
+A01460,2026-10-13,C0738,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,17.25,0,0.0
+A01461,2026-10-13,C0008,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A01462,2026-10-13,C0131,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A01463,2026-10-13,C0213,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01464,2026-10-14,C0739,first,Google Search,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,22.5,0,0.0
+A01465,2026-10-14,C0740,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A01466,2026-10-14,C0741,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01467,2026-10-14,C0742,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A01468,2026-10-14,C0743,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01469,2026-10-14,C0670,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01470,2026-10-14,C0728,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,0,0,0.0
+A01471,2026-10-15,C0744,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A01472,2026-10-15,C0745,first,Instagram Organic,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,0,0,0.0
+A01473,2026-10-15,C0746,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,28,14.0
+A01474,2026-10-15,C0747,first,Influencer Collab,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,20.7,42,21.0
+A01475,2026-10-15,C0748,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01476,2026-10-15,C0031,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01477,2026-10-15,C0066,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,28,14.0
+A01478,2026-10-15,C0150,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A01479,2026-10-15,C0538,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,26.1,0,0.0
+A01480,2026-10-15,C0565,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,34,17.0
+A01481,2026-10-15,C0637,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01482,2026-10-15,C0706,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01483,2026-10-15,C0721,repeat,Referral,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,0,0.0
+A01484,2026-10-16,C0749,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,0,0,0.0
+A01485,2026-10-16,C0750,first,ClassPass,ClassPass,Russian Manicure + Nail Art,95,125,56.25,0,50.0,13,0,0,0.0
+A01486,2026-10-16,C0751,first,Airbnb Experiences,Airbnb,Pedicure + Nail Art,80,120,24.0,0,48.0,15,0,0,0.0
+A01487,2026-10-16,C0144,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01488,2026-10-16,C0170,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01489,2026-10-16,C0199,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,0,0,0.0
+A01490,2026-10-16,C0546,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,0,0.0
+A01491,2026-10-16,C0580,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,28,14.0
+A01492,2026-10-16,C0670,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,0,34,17.0
+A01493,2026-10-16,C0706,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01494,2026-10-16,C0708,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01495,2026-10-17,C0752,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,0,0.0
+A01496,2026-10-17,C0753,first,Instagram Organic,Square,Natural Nail Care + Nail Art,65,95,0.0,3.06,38.0,10,17.1,0,0.0
+A01497,2026-10-17,C0754,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01498,2026-10-17,C0755,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01499,2026-10-17,C0756,first,Influencer Collab,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01500,2026-10-17,C0071,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A01501,2026-10-17,C0222,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,0,0,0.0
+A01502,2026-10-17,C0286,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,28,14.0
+A01503,2026-10-17,C0291,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,18.7,0,0.0
+A01504,2026-10-17,C0751,repeat,Airbnb Experiences,Square,Pedicure,60,90,0,2.91,36.0,11,19.8,34,17.0
+A01505,2026-10-18,C0757,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,28,14.0
+A01506,2026-10-18,C0758,first,Influencer Collab,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,18.75,0,0.0
+A01507,2026-10-18,C0759,first,Influencer Collab,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,18.7,42,21.0
+A01508,2026-10-18,C0760,first,Referral,Square,Pedicure + Nail Art,80,120,0.0,3.78,48.0,15,18.0,42,21.0
+A01509,2026-10-18,C0066,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,42,21.0
+A01510,2026-10-18,C0260,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A01511,2026-10-18,C0372,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01512,2026-10-18,C0409,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A01513,2026-10-18,C0473,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01514,2026-10-18,C0701,repeat,Google Search,Square,Structured Manicure + Nail Art,95,115,0,3.63,46.0,14,20.7,28,14.0
+A01515,2026-10-20,C0761,first,Google Search,Square,Pedicure,60,90,0.0,2.91,36.0,11,18.0,0,0.0
+A01516,2026-10-20,C0762,first,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,29.0,42,21.0
+A01517,2026-10-20,C0763,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,0,0.0
+A01518,2026-10-20,C0764,first,ClassPass,ClassPass,Natural Nail Care,45,65,29.25,0,26.0,6,0,0,0.0
+A01519,2026-10-20,C0043,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,34,17.0
+A01520,2026-10-20,C0263,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A01521,2026-10-20,C0339,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,34,17.0
+A01522,2026-10-20,C0625,repeat,Instagram Paid Ads,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,29.0,0,0.0
+A01523,2026-10-21,C0765,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,25.3,0,0.0
+A01524,2026-10-21,C0766,first,Referral,Square,Structured Manicure + Nail Art,95,115,0.0,3.63,46.0,14,0,0,0.0
+A01525,2026-10-21,C0009,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01526,2026-10-21,C0076,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,14.25,0,0.0
+A01527,2026-10-21,C0099,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,28,14.0
+A01528,2026-10-21,C0162,repeat,Instagram Organic,Square,Natural Nail Care,45,65,0,2.19,26.0,6,13.0,0,0.0
+A01529,2026-10-21,C0222,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A01530,2026-10-21,C0427,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,0,0.0
+A01531,2026-10-21,C0661,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,34,17.0
+A01532,2026-10-22,C0767,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01533,2026-10-22,C0477,repeat,Instagram Organic,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,24.0,34,17.0
+A01534,2026-10-22,C0760,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,28,14.0
+A01535,2026-10-23,C0768,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,15.3,0,0.0
+A01536,2026-10-23,C0769,first,Instagram Paid Ads,Square,Russian Manicure + Nail Art,95,125,0.0,3.92,50.0,13,27.5,42,21.0
+A01537,2026-10-23,C0770,first,ClassPass,ClassPass,Pedicure,60,90,40.5,0,36.0,11,0,0,0.0
+A01538,2026-10-23,C0771,first,Referral,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,0,0,0.0
+A01539,2026-10-23,C0601,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A01540,2026-10-23,C0670,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A01541,2026-10-23,C0702,repeat,Instagram Organic,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A01542,2026-10-24,C0772,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,20.7,0,0.0
+A01543,2026-10-24,C0773,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01544,2026-10-24,C0637,repeat,Referral,Square,Pedicure,60,90,0,2.91,36.0,11,18.0,0,0.0
+A01545,2026-10-24,C0687,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01546,2026-10-25,C0774,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,12.75,0,0.0
+A01547,2026-10-25,C0775,first,Instagram Paid Ads,Square,Pedicure,60,90,0.0,2.91,36.0,11,16.2,0,0.0
+A01548,2026-10-25,C0776,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01549,2026-10-25,C0777,first,Referral,Square,Gel-X Extensions + Nail Art,110,145,0.0,4.5,58.0,18,0,42,21.0
+A01550,2026-10-25,C0144,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A01551,2026-10-25,C0150,repeat,Google Search,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,17.25,0,0.0
+A01552,2026-10-25,C0248,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A01553,2026-10-25,C0270,repeat,Instagram Organic,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,23.0,0,0.0
+A01554,2026-10-25,C0584,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,22.5,0,0.0
+A01555,2026-10-25,C0754,repeat,Instagram Paid Ads,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A01556,2026-10-27,C0778,first,Google Search,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A01557,2026-10-27,C0779,first,Instagram Organic,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,17.1,28,14.0
+A01558,2026-10-27,C0086,repeat,Instagram Organic,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A01559,2026-10-27,C0104,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,31.9,0,0.0
+A01560,2026-10-27,C0291,repeat,Referral,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,21.6,0,0.0
+A01561,2026-10-27,C0410,repeat,Google Search,Square,Pedicure + Nail Art,80,120,0,3.78,48.0,15,0,0,0.0
+A01562,2026-10-27,C0697,repeat,Instagram Paid Ads,Square,Pedicure,60,90,0,2.91,36.0,11,13.5,0,0.0
+A01563,2026-10-27,C0755,repeat,Influencer Collab,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01564,2026-10-28,C0780,first,Google Search,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,0,0,0.0
+A01565,2026-10-28,C0781,first,Referral,Square,Gel-X Extensions,90,115,0.0,3.63,46.0,14,23.0,0,0.0
+A01566,2026-10-28,C0001,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01567,2026-10-28,C0086,repeat,Instagram Organic,Square,Natural Nail Care + Nail Art,65,95,0,3.06,38.0,10,17.1,0,0.0
+A01568,2026-10-28,C0100,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,0,34,17.0
+A01569,2026-10-28,C0239,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,42,21.0
+A01570,2026-10-28,C0507,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01571,2026-10-28,C0575,repeat,Google Search,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,0,0,0.0
+A01572,2026-10-29,C0782,first,Google Search,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,20.9,0,0.0
+A01573,2026-10-29,C0783,first,Instagram Organic,Square,Structured Manicure,75,85,0.0,2.77,34.0,10,17.0,0,0.0
+A01574,2026-10-29,C0784,first,ClassPass,ClassPass,Russian Manicure,75,95,42.75,0,38.0,9,0,0,0.0
+A01575,2026-10-29,C0066,repeat,Google Search,Square,Structured Manicure,75,85,0,2.77,34.0,10,17.0,0,0.0
+A01576,2026-10-29,C0078,repeat,Referral,Square,Gel-X Extensions + Nail Art,110,145,0,4.5,58.0,18,21.75,0,0.0
+A01577,2026-10-29,C0249,repeat,Referral,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,27.5,0,0.0
+A01578,2026-10-29,C0291,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01579,2026-10-29,C0512,repeat,Google Search,Square,Natural Nail Care,45,65,0,2.19,26.0,6,9.75,34,17.0
+A01580,2026-10-29,C0740,repeat,Instagram Organic,Square,Russian Manicure,75,95,0,3.06,38.0,9,20.9,0,0.0
+A01581,2026-10-30,C0785,first,Instagram Paid Ads,Square,Russian Manicure,75,95,0.0,3.06,38.0,9,19.0,0,0.0
+A01582,2026-10-30,C0786,first,Airbnb Experiences,Airbnb,Pedicure,60,90,18.0,0,36.0,11,0,0,0.0
+A01583,2026-10-30,C0263,repeat,Google Search,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,18.75,28,14.0
+A01584,2026-10-30,C0512,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,0,0.0
+A01585,2026-10-30,C0589,repeat,Referral,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,34,17.0
+A01586,2026-10-30,C0591,repeat,Instagram Organic,Square,Russian Manicure + Nail Art,95,125,0,3.92,50.0,13,25.0,0,0.0
+A01587,2026-10-30,C0637,repeat,Referral,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,42,21.0
+A01588,2026-10-30,C0684,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,19.0,0,0.0
+A01589,2026-10-31,C0787,first,Instagram Paid Ads,Square,Pedicure,60,90,0.0,2.91,36.0,11,18.0,0,0.0
+A01590,2026-10-31,C0192,repeat,Instagram Organic,Square,Structured Manicure,75,85,0,2.77,34.0,10,12.75,34,17.0
+A01591,2026-10-31,C0265,repeat,Google Search,Square,Russian Manicure,75,95,0,3.06,38.0,9,17.1,0,0.0
+A01592,2026-10-31,C0339,repeat,Referral,Square,Gel-X Extensions,90,115,0,3.63,46.0,14,20.7,0,0.0
+A01593,2026-10-31,C0659,repeat,Instagram Paid Ads,Square,Russian Manicure,75,95,0,3.06,38.0,9,0,34,17.0
