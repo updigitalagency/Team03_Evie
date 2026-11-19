@@ -168,7 +168,7 @@ body.on-dark .side-nav a.on span{background:var(--v);color:#fff}
 
 /* mobile */
 @media (max-width:900px){
-  .side-nav{right:10px}
+  .side-nav{display:none}
   .side-nav a em{display:none}
   .tr{display:none}
   .tl{left:16px;top:18px}
