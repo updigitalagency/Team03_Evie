@@ -1,4 +1,9 @@
-# Team03_Evie — video script (2:30, screen recording, product only, no slides)
+# Team03_Evie — recording the video (2:30)
+
+Easiest: 1) open https://2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro/ in Chrome, 2) ask Evie anything once and enter the demo code EVE2026 (remembered on this device), 3) Settings → 'Generate look' (Pixar character) and 'Create 3D icon set', wait ~1 min, 4) start Loom (captures system audio = Evie's voice) or QuickTime, 5) open https://2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro/?demo=1 — the tour runs itself with narration and captions. Stop with Esc. Trim to 2–3 min and upload as YouTube unlisted / Loom.
+
+Manual script (if you prefer to narrate yourself):
+
 
 Record with Loom or QuickTime at desktop width, light mode. Open https://2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro/ in a fresh tab; enter demo code EVE2026 once before recording. Speak over the screen; no intro slide.
 

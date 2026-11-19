@@ -48,6 +48,11 @@
 - Cost: ~1,040 credits (916 + 124). Credits left ~8,500.
 - Docs: one-pager-browdown.md.
 
+## Nov 18, ~22:10 — Pixar characters, 3D icons, DEMO MODE PUBLISHED
+- Characters are Pixar-style 3D mascots generated once per device via evie-image ('Generate look' in Settings; orb fallback until ready). 3D clay icon set ('Create 3D icon set', background batch, line-icon fallback). Demo code is remembered per device.
+- DEMO MODE for the video: Settings → 'Play demo' or URL ?demo=1. Hands-free ~2:30 tour with Evie narrating (TTS) + caption bar: influencer question → monthly report + Why? → Ads agent + Approve & launch → content plan + calendar → approvals → Brow Down campaign → AI discovery → character/call → close. 'Stop demo' pill / Esc. Verified on preview (steps run; live AI needs the demo code entered once on that device first).
+- Credits left ~1,850 (reserve for fixes).
+
 ## Nov 18, ~20:40 — voice, characters, Muse-style right panel, 'Why?' PUBLISHED
 - Voice: mic in the composer (Web Speech API), 'Call Evie' full-window call screen (listens, speaks replies with speechSynthesis, short voice-mode answers). Mic cannot be tested in the agent's browser; test in Chrome/Safari.
 - Characters (Settings → Evie's character): Calm strategist / Hype bestie / Numbers nerd / Coach / Custom (name + personality + orb colour), 'Try: say hi'.
