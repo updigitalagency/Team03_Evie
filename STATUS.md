@@ -53,7 +53,7 @@
 - Characters (Settings → Evie's character): Calm strategist / Hype bestie / Numbers nerd / Coach / Custom (name + personality + orb colour), 'Try: say hi'.
 - Right panel (toggle in header): character avatar + edit, Call / Share, tabs Approvals history (Allow / Deny, like Muse), Goals (tracker + running agents + this week), Ideas (proactive ideas with 'Do it'), Calendar (4-week content strip + launched campaigns).
 - 'Why?': chart points show '$1,677 · Why?' → click → live explanation with drivers and numbers + chips 'How do I fix it?' / 'Show me the math'. Verified on preview. Coverage on every metric still partial.
-- Credits left ~2,700.
+- ~21:10: responsive rail when the panel is open (chat keeps ≥560px), cards reflow, 'Why?' on Profile/Goals/cards. SMM 'Approve all' → 7 dots in Calendar verified. PUBLISHED. Credits left ~2,550.
 
 ## Nov 18, ~19:10 — empty chat + chat list PUBLISHED
 - Channels removed. Sidebar = '+ New chat' + Recent chats (auto-titled, per studio, persisted). New chat = orb + 'What should we work on, Eve?' + 6 idea chips (from a pool of 10), composer. No pre-rendered content; all numbers live in Profile. Verified: chip → live answer, chat appears in Recent with its title.
