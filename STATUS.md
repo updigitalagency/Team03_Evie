@@ -48,6 +48,13 @@
 - Cost: ~1,040 credits (916 + 124). Credits left ~8,500.
 - Docs: one-pager-browdown.md.
 
+## Nov 18, ~20:40 — voice, characters, Muse-style right panel, 'Why?' PUBLISHED
+- Voice: mic in the composer (Web Speech API), 'Call Evie' full-window call screen (listens, speaks replies with speechSynthesis, short voice-mode answers). Mic cannot be tested in the agent's browser; test in Chrome/Safari.
+- Characters (Settings → Evie's character): Calm strategist / Hype bestie / Numbers nerd / Coach / Custom (name + personality + orb colour), 'Try: say hi'.
+- Right panel (toggle in header): character avatar + edit, Call / Share, tabs Approvals history (Allow / Deny, like Muse), Goals (tracker + running agents + this week), Ideas (proactive ideas with 'Do it'), Calendar (4-week content strip + launched campaigns).
+- 'Why?': chart points show '$1,677 · Why?' → click → live explanation with drivers and numbers + chips 'How do I fix it?' / 'Show me the math'. Verified on preview. Coverage on every metric still partial.
+- Credits left ~2,700.
+
 ## Nov 18, ~19:10 — empty chat + chat list PUBLISHED
 - Channels removed. Sidebar = '+ New chat' + Recent chats (auto-titled, per studio, persisted). New chat = orb + 'What should we work on, Eve?' + 6 idea chips (from a pool of 10), composer. No pre-rendered content; all numbers live in Profile. Verified: chip → live answer, chat appears in Recent with its title.
 - Credits left ~3,700.
