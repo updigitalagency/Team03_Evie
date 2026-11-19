@@ -118,3 +118,16 @@ Workspace had 4,350 at start of the evening. Phase 2 build: ~132. Phase 3: ~375.
 - submission/Team03_Evie_demo.mp4 (2:59, 1440x900): owl-hosted tour of the real app (headless Chrome, real-time CDP recording), narration Microsoft Edge neural voice "Jenny" (free, edge-tts), self-synthesized royalty-free music with ducking, intro "Meet Evie" + outro "That's Evie." cards. Part A = in-app ?demo=1&record=1 tour (Eve's Space); part B = scripted owl overlay (Brow Down, onboarding, call, before/after) because the in-app tour restarts on studio switch and Enter credits ran out.
 - Known flaw: Enter credits = 0 → backend 503 → the "Why?" answer in the video shows "I couldn't get an explanation". After a credit top-up, re-record with video-tools/ (≈10 min).
 - Live AI on prod is DOWN until credits are bought (cloud freezes at 0).
+
+## Nov 19 — credits topped up (4,999), platform pass PUBLISHED
+- Enter Cloud resumed, live AI back (200). Fixed demo tour (sheets closed between steps, survives studio switch).
+- Chat history: demo chats never saved, duplicates cleaned, delete per chat + Clear all.
+- 4 new owl looks (Hype bestie / Numbers nerd / Coach / Custom) generated via evie-image and shipped as static files; Calm = original owl.
+- Goals-first onboarding in chat: goals + target net → blockers → only relevant integrations → 90-day strategy with 3 levers, demo-estimated $ effect, projected net and gap to target, per-lever approve.
+- Trust/explainability: 'Why this?' score breakdowns, 'View math' in approvals, trust line under the composer.
+- Real public data from evesspacela.com (services, address, phone, OSEA, Oil of Eden) labelled Real; synthetic numbers labelled Demo.
+- Data health (46 → 78 as fixes are approved), 'Take the 2-minute tour' button.
+- Voice: Gemini transcription mode + typo/mishearing normaliser ('convenes' → campaigns, then answers); best available browser voice; ElevenLabs used automatically if ELEVENLABS_API_KEY is added to Enter secrets.
+- Routing: 'how are my campaigns doing' → performance table with verdicts; imperative 'launch ads' → Ads agent.
+- Competitor reviewed (Crewbase Copilot): their strengths (real data, transparent scoring, data health, 4-step flow) now matched.
+- Demo video full re-record with live AI saved in scratch (paused per user request).
