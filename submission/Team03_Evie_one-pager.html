@@ -1,98 +1,181 @@
 <!doctype html>
-<html><head><meta charset="utf-8"><title>Team03_Evie one-pager</title>
+<html><head><meta charset="utf-8"><title>Evie · Team 03 one-pager</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-@page { size: A4; margin: 11mm 12mm 10mm 12mm; }
-* { box-sizing: border-box; }
-body { font-family: Inter, -apple-system, Helvetica, Arial, sans-serif; color:#1B1B1F; font-size:8.6pt; line-height:1.36; margin:0; }
-.top { display:flex; justify-content:space-between; align-items:flex-end; border-bottom:2px solid #1B1B1F; padding-bottom:5pt; margin-bottom:6pt; }
-h1 { font-size:21pt; margin:0; letter-spacing:-.02em; }
-h1 span { color:#6B5BFF; }
-.sub { font-size:10pt; margin-top:1pt; }
-.meta { text-align:right; font-size:7.8pt; color:#55555E; line-height:1.45; }
-a { color:#6B5BFF; text-decoration:none; }
-h2 { font-size:10pt; margin:7pt 0 3pt; text-transform:uppercase; letter-spacing:.05em; color:#6B5BFF; }
-h3 { font-size:9.6pt; margin:0 0 2pt; }
-p { margin:0 0 4pt; }
-ul { margin:0 0 4pt 11pt; padding:0; } li { margin-bottom:1.6pt; }
-.cols { display:flex; gap:10pt; }
-.col { flex:1; border:1px solid #E4E4EC; border-radius:7pt; padding:7pt 9pt; }
-.tag { font-size:7.6pt; color:#6E6E78; margin-bottom:4pt; }
-.kpis { display:flex; gap:6pt; margin:4pt 0 5pt; }
-.k { flex:1; background:#F5F3FF; border-radius:5pt; padding:4pt 6pt; }
-.k b { display:block; font-size:11.5pt; }
-.k span { font-size:7.2pt; color:#55555E; }
-.flow { background:#FAFAFC; border-left:3px solid #6B5BFF; padding:4pt 7pt; margin:4pt 0; }
-.row { display:flex; gap:10pt; }
-.row > div { flex:1; }
-.muted { color:#6E6E78; }
-.foot { margin-top:6pt; border-top:1px solid #E4E4EC; padding-top:4pt; font-size:7.6pt; color:#55555E; }
-</style></head><body>
+@page { size: A4; margin: 0; }
+:root { --ink:#1B1B1F; --mute:#6E6E78; --v:#6B5BFF; --v2:#8E7DFF; --lav:#F1EEFF; --peach:#FFC5A8; --pink:#FF7A90; --line:#E9E6F5; }
+* { box-sizing:border-box; }
+html,body { margin:0; }
+body { width:210mm; height:297mm; overflow:hidden; font-family:Inter,-apple-system,Helvetica,Arial,sans-serif; color:var(--ink); font-size:8pt; line-height:1.34;
+  background:
+    radial-gradient(95mm 95mm at 50% 52%, #E4DDFF 0%, rgba(228,221,255,.55) 38%, rgba(255,255,255,0) 72%),
+    radial-gradient(120mm 60mm at 50% 104%, #D9D0FF 0%, rgba(255,255,255,0) 70%),
+    linear-gradient(#FFFFFF, #FCFBFF); }
+.page { position:relative; height:297mm; padding:9mm 10mm 7mm; display:flex; flex-direction:column; }
 
-<div class="top">
-  <div>
-    <h1>Evie <span>·</span> the AI growth agent for appointment businesses</h1>
-    <div class="sub">Turns scattered marketing into booked, profitable appointments. One chat, one owl, nothing runs without the owner's yes.</div>
-  </div>
-  <div class="meta">Team 03 · Team03_Evie · Converge.AI Buildathon, Nov 2026<br>
-    Live: <a href="https://2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro/">2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro</a><br>
-    AI demo code <b>EVE2026</b> · studio switch top-left<br>
-    GitHub: <a href="https://github.com/updigitalagency/Team03_Evie">github.com/updigitalagency/Team03_Evie</a><br>Video: [link]</div>
+/* header */
+.head { text-align:center; }
+.eyebrow { font-size:7.4pt; letter-spacing:.14em; text-transform:uppercase; color:var(--v); font-weight:600; }
+h1 { font-size:30pt; font-weight:800; letter-spacing:-.035em; margin:1mm 0 0; line-height:1; }
+h1 .dot { color:var(--v); }
+.tagline { font-size:11pt; color:#3D3D46; margin-top:2mm; }
+.tagline b { color:var(--v); font-weight:700; }
+
+/* main grid */
+.grid { flex:1; display:grid; grid-template-columns: 1fr 62mm 1fr; grid-template-rows: auto 1fr auto; gap:4mm 4mm; margin-top:5mm; }
+.card { background:rgba(255,255,255,.92); border:1px solid var(--line); border-radius:4.5mm; padding:3.4mm 3.8mm; box-shadow:0 2mm 6mm rgba(80,60,180,.07); }
+.card h2 { margin:0 0 .6mm; font-size:10.5pt; letter-spacing:-.01em; }
+.card .who { font-size:7.2pt; color:var(--mute); margin-bottom:2mm; }
+.card p { margin:0 0 1.6mm; }
+.chip { display:inline-block; font-size:6.8pt; font-weight:600; padding:.5mm 2.2mm; border-radius:99px; background:var(--lav); color:var(--v); margin-bottom:1.6mm; }
+.chip.peach { background:#FFF0E8; color:#C2552A; }
+.stats { display:flex; gap:2mm; margin:2mm 0 0; }
+.stat { flex:1; background:var(--lav); border-radius:3mm; padding:1.8mm 2.2mm; }
+.stat b { display:block; font-size:12pt; font-weight:800; letter-spacing:-.02em; color:var(--ink); }
+.stat span { font-size:6.6pt; color:var(--mute); line-height:1.25; display:block; }
+ul { margin:0; padding:0; list-style:none; }
+li { position:relative; padding-left:3.6mm; margin-bottom:1.3mm; }
+li::before { content:""; position:absolute; left:0; top:1.5mm; width:1.6mm; height:1.6mm; border-radius:50%; background:var(--v); }
+
+/* centre owl */
+.center { grid-column:2; grid-row:1 / span 3; display:flex; flex-direction:column; align-items:center; justify-content:center; position:relative; }
+.orb { position:relative; width:60mm; height:60mm; border-radius:50%;
+  background:radial-gradient(circle at 50% 45%, #fff 0%, #F3EFFF 60%, #E2DAFF 100%);
+  box-shadow:0 0 0 2.2mm rgba(255,255,255,.9), 0 0 0 2.8mm rgba(107,91,255,.18), 0 8mm 22mm rgba(107,91,255,.28); overflow:hidden; }
+.orb img { width:100%; height:100%; object-fit:cover; transform:scale(1.08) translateY(2%); }
+.ring { position:absolute; width:76mm; height:76mm; border-radius:50%; border:1px dashed rgba(107,91,255,.35); top:50%; left:50%; transform:translate(-50%,-50%); }
+.bubble { position:absolute; background:#fff; border:1px solid var(--line); border-radius:99px; padding:1.1mm 2.6mm; font-size:7pt; font-weight:600; white-space:nowrap; box-shadow:0 1.5mm 4mm rgba(80,60,180,.12); }
+.bubble i { font-style:normal; color:var(--v); }
+.say { margin-top:7mm; background:#fff; border-radius:4mm; padding:2.6mm 3.6mm; font-size:8.2pt; text-align:center; box-shadow:0 2mm 6mm rgba(80,60,180,.12); position:relative; max-width:60mm; }
+.say::before { content:""; position:absolute; top:-1.6mm; left:50%; width:3.2mm; height:3.2mm; background:#fff; transform:translateX(-50%) rotate(45deg); }
+.say b { color:var(--v); }
+.name { margin-top:3mm; font-size:7pt; color:var(--mute); text-align:center; }
+.spark { position:absolute; border-radius:50%; }
+
+/* footer */
+.foot { margin-top:4mm; display:grid; grid-template-columns: 1.25fr 1fr; gap:5mm; align-items:stretch; }
+.prod { display:flex; gap:2mm; }
+.p { flex:1; background:#fff; border:1px solid var(--line); border-radius:3mm; padding:2mm 2.4mm; }
+.p b { display:block; font-size:8.6pt; color:var(--v); }
+.p span { font-size:6.6pt; color:var(--mute); line-height:1.25; display:block; }
+.links { background:var(--ink); color:#fff; border-radius:3.5mm; padding:2.8mm 3.6mm; font-size:7.3pt; line-height:1.55; }
+.links a { color:#CFC7FF; text-decoration:none; }
+.links b { color:#fff; }
+.fine { margin-top:2.6mm; font-size:6.4pt; color:var(--mute); text-align:center; }
+</style></head><body><div class="page">
+
+<div class="head">
+  <div class="eyebrow">Team 03 · Team03_Evie · Converge.AI Buildathon · November 2026</div>
+  <h1>Evie<span class="dot">.</span></h1>
+  <div class="tagline">The AI growth agent that turns marketing into <b>booked, profitable appointments</b>.</div>
 </div>
 
-<div class="cols">
-  <div class="col">
-    <h3>Eve's Space · premium nail studio, Downtown LA</h3>
-    <div class="tag">Challenge: “From Marketing Activity to Profitable Appointments” · owner Eve</div>
-    <p><b>Context.</b> Six years, loyal clients, real menu (Russian manicure, Gel-X, Smart Pedicure, OSEA add-ons) at 727 W 7th St. Yet chairs are <b>41% full</b> and net profit fell from <b>$5.5k (May) to $590 (Oct)</b>. Spend is spread over Google, Instagram, influencers and ClassPass. Revenue sits in Square, ClassPass and Airbnb. Nobody knows which marketing becomes a profitable appointment.</p>
-    <div class="kpis">
-      <div class="k"><b>$38 vs $4</b><span>margin per chair-hour, Google vs ClassPass</span></div>
-      <div class="k"><b>77 → 6</b><span>influencer clients came in → came back</span></div>
-      <div class="k"><b>$7,200 → $3,866</b><span>paid Instagram spend → return</span></div>
+<div class="grid">
+
+  <!-- top left -->
+  <div class="card" style="grid-column:1;grid-row:1">
+    <span class="chip">Main challenge</span>
+    <h2>Eve's Space</h2>
+    <div class="who">Premium nail studio · Downtown LA · owner Eve</div>
+    <p>Six years, loyal clients, half-empty chairs. Marketing and revenue are scattered across five tools, so nobody knows which marketing books a profitable appointment.</p>
+    <div class="stats">
+      <div class="stat"><b>41%</b><span>chairs full</span></div>
+      <div class="stat"><b>$590</b><span>net in Oct, from $5.5k in May</span></div>
     </div>
-    <div class="flow"><b>One complete workflow.</b> Goals onboarding: “$10k net a month” → Evie asks only for the integrations that goal needs → 90-day strategy with the math. “Launch ads for my best service” → the Ads agent picks the service with the most open chair-hours, writes three angles, generates visuals, scores them and keeps the strongest → <b>one Approve</b> → Google / Meta import files with a booking code. Gap Filler texts the best-fit clients for each empty hour.</div>
-    <p><b>Impact, as computed by the strategy card</b></p>
-    <ul>
-      <li>Gap Filler <b>+$2,369</b>, win-back of 173 lapsed clients <b>+$900</b>, budget shift from influencers to Google and referrals <b>+$1,900</b> a month.</li>
-      <li>Net profit <b>$590 → ~$5,759</b> a month projected. The remaining $4,241 gap to $10k is shown, not hidden.</li>
-      <li>Open chair-hours this week <b>29 → 12</b>. A week of content drafted in minutes, in Eve's voice.</li>
-    </ul>
   </div>
-  <div class="col">
-    <h3>Brow Down Studio · studio + Pro products + education</h3>
-    <div class="tag">Extra challenge: “From Creative Guesswork to a Repeatable, Insight-Led Beauty Marketing Engine” · owner René</div>
-    <p><b>Context.</b> Three businesses in one brand. Campaigns depend on the founder's time: she wrote the whole Fall kit launch herself in <b>11 hours</b>. There is no loop from past results to the next plan, and no view of whether Brow Down shows up when customers ask Google or an AI assistant.</p>
-    <div class="kpis">
-      <div class="k"><b>68% vs 2%</b><span>Fall kit orders from email vs TikTok</span></div>
-      <div class="k"><b>9 → 14</b><span>rank drop, “brow lamination kit”, 5.9k impressions</span></div>
-      <div class="k"><b>2–3 of 12</b><span>AI-assistant answers that mention Brow Down</span></div>
+
+  <!-- top right -->
+  <div class="card" style="grid-column:3;grid-row:1">
+    <span class="chip peach">Extra challenge</span>
+    <h2>Brow Down Studio</h2>
+    <div class="who">Brow studio · Pro product line · education · owner René</div>
+    <p>Three businesses in one brand. Launches depend on the founder's time, and nobody knows if AI assistants recommend the brand.</p>
+    <div class="stats">
+      <div class="stat"><b>11 h</b><span>to write one launch by hand</span></div>
+      <div class="stat"><b>2–3 / 12</b><span>AI answers that mention Brow Down</span></div>
     </div>
-    <div class="flow"><b>One complete workflow.</b> René types one line: “Holiday gift sets, ship by Dec 15, budget $600” → Campaign Planner returns a 90-order / $8,000 plan. The channel mix comes from past-launch learnings. Assets get owners and due dates on a 3-week calendar. Copy is drafted live and checked by a <b>brand-voice guard</b> → approve the plan → one approval per asset. A launch retro records result vs target, and the next plan cites it.</div>
-    <p><b>Discovery and impact</b></p>
+  </div>
+
+  <!-- centre -->
+  <div class="center">
+    <div class="ring"></div>
+    <div class="orb"><img src="evie-owl-wave.png" alt="Evie the owl"></div>
+    <div class="bubble" style="top:calc(50% - 42mm);left:50%;transform:translateX(-50%)"><i>✓</i> One Approve</div>
+    <div class="bubble" style="top:calc(50% - 22mm);left:-6mm"><i>?</i> Why? on every number</div>
+    <div class="bubble" style="top:calc(50% - 22mm);right:-4mm">🎙 Call Evie</div>
+    <div class="bubble" style="top:calc(50% + 12mm);left:-7mm"><i>♥</i> Data health 46→78</div>
+    <div class="bubble" style="top:calc(50% + 12mm);right:-6mm"><i>★</i> 4 looks, 1 brain</div>
+    <div class="say">“Here's what I'd do this week. <b>Nothing runs without your yes.</b>”</div>
+    <div class="name">Evie · Pixar-style owl, animated in Framia</div>
+  </div>
+
+  <!-- middle left -->
+  <div class="card" style="grid-column:1;grid-row:2">
+    <span class="chip">What the data says</span>
     <ul>
-      <li>12 real customer questions are sent live to a model. Each miss becomes a task: FAQ page, llms.txt + product schema, aftercare guide.</li>
-      <li>Launch prep drops from hours to minutes. The team sees its assets, owners and dates.</li>
-      <li>Search and AI visibility become a number the team can move every Monday.</li>
+      <li><b>$38 vs $4</b> margin per chair-hour, Google vs ClassPass.</li>
+      <li><b>77 in, 6 back.</b> Influencer clients rarely return.</li>
+      <li><b>$7,200 → $3,866.</b> Paid Instagram lost money.</li>
+      <li><b>48% rebook</b> from Google and referrals, the clients worth paying for.</li>
+      <li><b>173 regulars</b> drifting away with no reminder.</li>
+    </ul>
+  </div>
+
+  <!-- middle right -->
+  <div class="card" style="grid-column:3;grid-row:2">
+    <span class="chip peach">For Brow Down</span>
+    <ul>
+      <li><b>Campaign Planner:</b> one line becomes a plan with owners, dates and a brand-voice check.</li>
+      <li><b>Launch retro:</b> each result teaches the next plan.</li>
+      <li><b>AI visibility:</b> 12 customer questions checked live, misses become tasks.</li>
+      <li><b>68% vs 2%:</b> Fall kit orders from email vs TikTok, so the next plan leans on email.</li>
+      <li><b>Rank 9 → 14</b> on “brow lamination kit” flagged with content fixes.</li>
+    </ul>
+  </div>
+
+  <!-- bottom left -->
+  <div class="card" style="grid-column:1;grid-row:3">
+    <span class="chip">How it works</span>
+    <h2>One chat, one complete loop</h2>
+    <ul>
+      <li><b>Goals first:</b> “$10k net a month.” Evie asks only for what that goal needs.</li>
+      <li><b>90-day strategy</b> with the dollar math behind every move.</li>
+      <li><b>Agents do the work:</b> ads, social and SEO, end to end. Eve taps Approve.</li>
+      <li><b>Gap Filler</b> texts the right clients for each empty hour.</li>
+    </ul>
+  </div>
+
+  <!-- bottom right -->
+  <div class="card" style="grid-column:3;grid-row:3">
+    <span class="chip">Business impact</span>
+    <h2>$590 → ~$5,759 net / month</h2>
+    <ul>
+      <li><b>+$2,369</b> filling open chair-hours.</li>
+      <li><b>+$1,900</b> moving influencer spend to Google and referrals.</li>
+      <li><b>+$900</b> winning back 173 lapsed regulars.</li>
+      <li>Content in minutes, one P&amp;L.</li>
     </ul>
   </div>
 </div>
 
-<div class="row">
+<div class="foot">
   <div>
-    <h2>How AI is used, and why it is different</h2>
-    <ul>
-      <li><b>Agents, not dashboards.</b> Ads, SMM and SEO agents run end to end. The owner sees the result and taps one Approve, with no micro-steps.</li>
-      <li><b>“Why?” on everything.</b> Every number and recommendation opens a score breakdown and the math. Numbers are computed from the data. The model writes and explains.</li>
-      <li><b>Data health</b> score 46 → 78 with a fix queue, so the owner knows what to trust.</li>
-      <li><b>Talk to Evie.</b> Chat that tolerates typos, voice notes and a voice call. The Pixar-style owl changes look per character (calm, hype, nerd, coach) and pose per task.</li>
-    </ul>
+    <div class="eyebrow" style="margin-bottom:1.6mm">Built on all four Converge.AI products</div>
+    <div class="prod">
+      <div class="p"><b>Enter</b><span>The whole app, data, live AI, images</span></div>
+      <div class="p"><b>Framia</b><span>The animated owl, video ads</span></div>
+      <div class="p"><b>Covey</b><span>The pitch deck</span></div>
+      <div class="p"><b>Combos</b><span>Evie as an AI character</span></div>
+    </div>
+    <div style="margin-top:2mm;font-size:7.2pt;color:#3D3D46">One agent, two very different businesses, zero new code. Any appointment business onboards in four steps: salons, spas, barbers, clinics, fitness.</div>
   </div>
-  <div>
-    <h2>Beyond one business</h2>
-    <p>The same agent and codebase run a nail studio measured on chair-hours and a product + education brand measured on campaigns. Every table carries a studio id. A new business onboards in four steps: goals, integrations, strategy, first approval. The model fits salons, spas, barbers, clinics, fitness and tattoo studios. It can be priced per filled chair-hour, not per seat.</p>
-    <h2>Built on all four Converge.AI products</h2>
-    <p><b>Enter</b>: the whole app, database, sign-in, edge functions, live AI and image generation. <b>Framia</b>: the animated owl and the video-ad hand-off. <b>Covey</b>: the 10-slide pitch deck. <b>Combos</b>: Evie as a chat-able AI character.</p>
+  <div class="links">
+    <b>Try it live</b> · <a href="https://2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro/">2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro</a><br>
+    AI demo code <b>EVE2026</b> · switch studios top-left<br>
+    <b>Code</b> · <a href="https://github.com/updigitalagency/Team03_Evie">github.com/updigitalagency/Team03_Evie</a><br>
+    <b>Video</b> · [link]
   </div>
 </div>
+<div class="fine">Demo data is synthetic but uses real fee structures (Square 2.9% + $0.30, ClassPass ~55% payout, 40% tech commission). Google and Meta ads ship as import files until the owner connects accounts.</div>
 
-<div class="foot"><b>Honest limits.</b> Demo data is synthetic but built on real fee structures: 787 clients, 1,593 appointments, Square 2.9% + $0.30, ClassPass ~55% payout, 40% tech commission. Google Ads and Meta have no connector on Converge, so Evie ships import files instead of faking a launch. Owners connect Square, Instagram, Gmail and Google through Enter connectors to replace demo data with live data.</div>
-</body></html>
+</div></body></html>
