@@ -94,7 +94,9 @@ function s2(p) {
   const spread = .35 + ease(seg(p, .05, .7)) * 1.1;
   cloud.forEach((c, i) => {
     const { a, r } = cloudSeed[i]; const rr = r * spread;
-    const x = Math.cos(a + p * .8) * rr * innerWidth, y = Math.sin(a + p * .8) * rr * innerHeight * .55 + innerHeight * .02;
+    const m = mobile();
+    const x = Math.cos(a + p * .8) * rr * innerWidth * (m ? .9 : 1);
+    const y = m ? Math.sin(a + p * .8) * rr * innerHeight * .2 - innerHeight * .1 : Math.sin(a + p * .8) * rr * innerHeight * .55 + innerHeight * .02;
     c.style.transform = `translate(-50%,-50%) translate(${x}px, ${y}px)`;
     c.style.opacity = (.9 - seg(p, .55, .8) * .75).toFixed(2);
   });

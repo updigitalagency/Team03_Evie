@@ -192,8 +192,17 @@ body.on-dark .side-nav a.on span{background:var(--v);color:#fff}
   .wf{height:150px}
   .bars{padding:16px}.water{padding:16px}
   .bar{grid-template-columns:100px 1fr 40px;margin-bottom:6px;font-size:12px}
-  .s5-stage{flex-direction:column;justify-content:center;padding:8vh 16px 0;gap:10px}
-  .orbit{width:68vw;flex:none}
+  .s5-stage{flex-direction:column;justify-content:flex-start;padding:6vh 16px 0;gap:7vh}
+  .s5-left{flex:none}
+  .orbit{margin:0 auto}
+  .s5-stage .big{font-size:40px}
+  .s5-stage .lead{font-size:15px;margin-top:14px}
+  .proof{margin-top:14px;padding:10px}
+  .orbit{width:50vw;flex:none}
+  .ring2 span{font-size:11px;padding:6px 10px}
+  .ring2 em{display:none}
+  .chips-cloud span{font-size:12px;padding:7px 12px}
+  .s2-stage .big{font-size:44px}
   .proof img{width:110px}
   .steps{grid-template-columns:1fr}
   .s6{padding:12vh 16px 8vh}
