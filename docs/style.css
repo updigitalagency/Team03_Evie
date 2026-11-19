@@ -21,9 +21,9 @@ i{font-style:italic}
 
 /* side nav */
 .side-nav{position:fixed;right:22px;top:50%;transform:translateY(-50%);z-index:50;display:flex;flex-direction:column;gap:14px}
-.side-nav a{display:flex;align-items:center;justify-content:flex-end;gap:10px;text-decoration:none;font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:rgba(120,110,160,.7)}
+.side-nav a{position:relative;display:flex;align-items:center;justify-content:center;width:28px;text-decoration:none;font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:rgba(120,110,160,.7)}
 .side-nav a span{width:26px;height:26px;border-radius:50%;display:grid;place-items:center;border:1px solid currentColor;background:rgba(255,255,255,.55);backdrop-filter:blur(6px);transition:all .3s}
-.side-nav a em{font-style:normal;opacity:0;transform:translateX(6px);transition:all .3s;white-space:nowrap;background:rgba(255,255,255,.85);padding:3px 8px;border-radius:99px;color:var(--ink)}
+.side-nav a em{position:absolute;right:36px;top:50%;margin-top:-10px;pointer-events:none;font-style:normal;opacity:0;transform:translateX(6px);transition:all .3s;white-space:nowrap;background:rgba(255,255,255,.85);padding:3px 8px;border-radius:99px;color:var(--ink)}
 .side-nav a:hover em{opacity:1;transform:none}
 .side-nav a.on{color:var(--v)}
 .side-nav a.on span{background:var(--v);color:#fff;border-color:var(--v);transform:scale(1.12)}
