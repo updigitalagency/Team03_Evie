@@ -21,12 +21,35 @@ const hero = document.getElementById('hero');
 const hint = document.getElementById('hint');
 const shade = document.getElementById('shade');
 const s1panel = document.getElementById('s1panel');
-if (mobile()) video.src = 'media/pull-sm.mp4';
-// load whole video into memory so seeking is instant
-(async () => {
-  try { const b = await fetch(video.getAttribute('src')).then(r => r.blob()); video.src = URL.createObjectURL(b); } catch (e) { video.load(); }
-})();
-video.addEventListener('loadeddata', () => { video.play().then(() => video.pause()).catch(() => {}); }, { once: true });
+// Phones (and any touch device): draw a JPEG frame sequence on a canvas. iOS Safari often
+// refuses to repaint a video on currentTime seeks, so scrubbing a <video> is unreliable there.
+const DUR = 5.04, NF = 71;
+const useSeq = matchMedia('(hover: none), (pointer: coarse)').matches || mobile();
+let canvas, ctx, frames = [], lastDrawn = -1;
+if (useSeq) {
+  video.removeAttribute('src'); video.load(); video.style.display = 'none';
+  canvas = document.createElement('canvas'); canvas.className = 'seq';
+  vwrap.insertBefore(canvas, vwrap.firstChild); ctx = canvas.getContext('2d');
+  const sizeCanvas = () => { const d = Math.min(devicePixelRatio || 1, 2); canvas.width = vwrap.clientWidth * d; canvas.height = vwrap.clientHeight * d; lastDrawn = -1; };
+  addEventListener('resize', sizeCanvas); sizeCanvas();
+  const load = i => { const im = new Image(); im.decoding = 'async'; im.src = `media/seq/f${String(i + 1).padStart(3, '0')}.jpg`; im.onload = () => { if (i === 0 || lastDrawn === -1) lastDrawn = -2; }; frames[i] = im; };
+  load(0); for (let i = 1; i < NF; i++) load(i);
+} else {
+  // desktop: whole video into memory so seeking is instant
+  (async () => {
+    try { const b = await fetch(video.getAttribute('src')).then(r => r.blob()); video.src = URL.createObjectURL(b); } catch (e) { video.load(); }
+  })();
+  video.addEventListener('loadeddata', () => { video.play().then(() => video.pause()).catch(() => {}); }, { once: true });
+}
+function drawFrame(t) {
+  let i = Math.round(clamp(t / DUR) * (NF - 1));
+  // nearest loaded frame
+  let j = i; while (j > 0 && !(frames[j] && frames[j].complete && frames[j].naturalWidth)) j--;
+  const im = frames[j]; if (!im || !im.complete || !im.naturalWidth || j === lastDrawn) return;
+  const W = canvas.width, H = canvas.height, sc = Math.max(W / im.naturalWidth, H / im.naturalHeight);
+  const w = im.naturalWidth * sc, h = im.naturalHeight * sc;
+  ctx.drawImage(im, (W - w) / 2, (H - h) / 2, w, h); lastDrawn = j;
+}
 const vs = { target: 0, cur: 0 };
 // laptop screen corners in the last frame (fractions of the 1280x720 video)
 const QUAD = [[.714, .342], [.914, .3625], [.902, .711], [.703, .674]];
@@ -61,7 +84,7 @@ addEventListener('resize', placeScreen); placeScreen();
 
 function s1(p) {
   // video plays across 0..0.62 of the scene, then holds on the studio shot
-  if (video.duration) vs.target = seg(p, 0, .62) * (video.duration - .05);
+  vs.target = seg(p, 0, .62) * ((useSeq ? DUR : video.duration || DUR) - .05);
   const out = seg(p, 0, .14);
   hero.style.opacity = 1 - out; hero.style.transform = `translate3d(${smx * -18}px, ${-out * 60 + smy * -10}px, 0)`;
   hint.style.opacity = 1 - seg(p, 0, .05);
@@ -74,6 +97,7 @@ function s1(p) {
 }
 function tickVideo() {
   vs.cur += (vs.target - vs.cur) * .18;
+  if (useSeq) { drawFrame(vs.cur); return; }
   if (video.duration && !video.seeking && Math.abs(video.currentTime - vs.cur) > 1 / 60) video.currentTime = vs.cur;
 }
 
