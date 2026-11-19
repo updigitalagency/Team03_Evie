@@ -131,3 +131,10 @@ Workspace had 4,350 at start of the evening. Phase 2 build: ~132. Phase 3: ~375.
 - Routing: 'how are my campaigns doing' → performance table with verdicts; imperative 'launch ads' → Ads agent.
 - Competitor reviewed (Crewbase Copilot): their strengths (real data, transparent scoring, data health, 4-step flow) now matched.
 - Demo video full re-record with live AI saved in scratch (paused per user request).
+
+## Nov 19 — all four Converge.AI products used
+- Enter: the app (published).
+- Framia: owl animation video generated from our owl (Seedance 2.5, 5s) → assets/evie-owl-framia.mp4, plays once in the empty chat; Ads agent has 'Make a video ad in Framia' (opens Framia + copies the prompt). Framia project: "New Project" canvas in Lisa's workspace.
+- Covey: 10-slide pitch deck "Evie — The AI owl for profitable appointments.pptx" (Covey → Evie Investor Pitch Deck).
+- Combos: AI character "Evie" (private, approved) with our owl portrait and persona; answers in character.
+- Settings shows 'Built with Converge.AI — Enter, Framia, Covey, Combos'.

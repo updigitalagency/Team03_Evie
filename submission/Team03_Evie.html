@@ -102,6 +102,7 @@ a { color:#6B5BFF; text-decoration:none; }
   <p><b>Day to day</b>: René types the launch in one line, approves the plan, the team sees its assets and dates; every Monday the retro and the discovery score tell her what moved. <b>Impact</b>: launches start from evidence, preparation drops from hours to minutes, discoverability becomes a number the team can move.</p>
   <h2>7. How it is built</h2>
   <ul>
+    <li><b>All four Converge.AI products.</b> Enter: the whole app. Framia: the animated owl (Seedance 2.5 from our mascot) used in the app and video, plus a 'Make a video ad in Framia' hand-off from the Ads agent. Covey: the 10-slide pitch deck. Combos: Evie as a chat-able AI character.</li>
     <li><b>Enter (Converge.AI)</b> end to end: React front end, Enter infrastructure for the database (every table carries <code>studio_id</code>), owner sign-in, storage, edge functions <code>evie-ai</code> (chat, studio, discovery modes; Gemini 3.5 Flash via Enter AI) and <code>evie-image</code> (ad visuals via Enter AI image model).</li>
     <li>Demo-code gate for judges, shared hourly cap; no keys in the client; every outbound action requires an approval and is logged.</li>
     <li>Connectors (Instagram, Gmail, Google Search Console / Analytics / Calendar, Framia) are linked in the Converge workspace by the owner; the app's data layer switches from demo to live per source.</li>
