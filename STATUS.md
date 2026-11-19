@@ -48,6 +48,11 @@
 - Cost: ~1,040 credits (916 + 124). Credits left ~8,500.
 - Docs: one-pager-browdown.md.
 
+## Nov 18, ~23:00 — static owl + owl-hosted demo PUBLISHED
+- Enter's build shell has no AI token, so static images could not be generated there. Took the owl PNG generated on the preview (localStorage), moved it via window.name into the editor tab, pasted it as a file into the builder chat → saved as public/characters/evie.png (95 KB). Owl now shows for everyone on first open (panel, chat, Settings, call). 'Regenerate look' stays optional; 3D icons remain optional runtime generation (line icons by default).
+- Demo tour: the owl is the host bottom-left next to the captions, bobs while speaking, waves at the end. '(demo)' suffix removed from Why? questions.
+- Credits left ~1,430.
+
 ## Nov 18, ~22:10 — Pixar characters, 3D icons, DEMO MODE PUBLISHED
 - Characters are Pixar-style 3D mascots generated once per device via evie-image ('Generate look' in Settings; orb fallback until ready). 3D clay icon set ('Create 3D icon set', background batch, line-icon fallback). Demo code is remembered per device.
 - DEMO MODE for the video: Settings → 'Play demo' or URL ?demo=1. Hands-free ~2:30 tour with Evie narrating (TTS) + caption bar: influencer question → monthly report + Why? → Ads agent + Approve & launch → content plan + calendar → approvals → Brow Down campaign → AI discovery → character/call → close. 'Stop demo' pill / Esc. Verified on preview (steps run; live AI needs the demo code entered once on that device first).
