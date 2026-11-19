@@ -113,3 +113,8 @@
 
 ## Credits
 Workspace had 4,350 at start of the evening. Phase 2 build: ~132. Phase 3: ~375.
+
+## Nov 19 — demo video
+- submission/Team03_Evie_demo.mp4 (2:59, 1440x900): owl-hosted tour of the real app (headless Chrome, real-time CDP recording), narration Microsoft Edge neural voice "Jenny" (free, edge-tts), self-synthesized royalty-free music with ducking, intro "Meet Evie" + outro "That's Evie." cards. Part A = in-app ?demo=1&record=1 tour (Eve's Space); part B = scripted owl overlay (Brow Down, onboarding, call, before/after) because the in-app tour restarts on studio switch and Enter credits ran out.
+- Known flaw: Enter credits = 0 → backend 503 → the "Why?" answer in the video shows "I couldn't get an explanation". After a credit top-up, re-record with video-tools/ (≈10 min).
+- Live AI on prod is DOWN until credits are bought (cloud freezes at 0).
