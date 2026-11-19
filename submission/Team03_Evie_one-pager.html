@@ -72,28 +72,70 @@ li::before { content:""; position:absolute; left:0; top:1.5mm; width:1.6mm; heig
 
 <div class="grid">
 
-  <!-- top left -->
+  <!-- 1 problem -->
   <div class="card" style="grid-column:1;grid-row:1">
-    <span class="chip">Main challenge</span>
-    <h2>Eve's Space</h2>
-    <div class="who">Premium nail studio · Downtown LA · owner Eve</div>
-    <p>Six years, loyal clients, half-empty chairs. Marketing and revenue are scattered across five tools, so nobody knows which marketing books a profitable appointment.</p>
+    <span class="chip">1 · The business problem</span>
+    <h2>Busy marketing, empty chairs</h2>
+    <div class="who">Eve's Space, premium nail studio, Downtown LA · extra: Brow Down Studio</div>
+    <p>Eve markets on Google, Instagram, influencers and ClassPass, and her money sits in Square, ClassPass and Airbnb. Nobody can say which marketing books a profitable appointment. Brow Down's launches depend on the founder's time.</p>
     <div class="stats">
       <div class="stat"><b>41%</b><span>chairs full</span></div>
       <div class="stat"><b>$590</b><span>net in Oct, from $5.5k in May</span></div>
+      <div class="stat"><b>11 h</b><span>per Brow Down launch</span></div>
     </div>
   </div>
 
-  <!-- top right -->
+  <!-- 2 solution -->
   <div class="card" style="grid-column:3;grid-row:1">
-    <span class="chip peach">Extra challenge</span>
-    <h2>Brow Down Studio</h2>
-    <div class="who">Brow studio · Pro product line · education · owner René</div>
-    <p>Three businesses in one brand. Launches depend on the founder's time, and nobody knows if AI assistants recommend the brand.</p>
-    <div class="stats">
-      <div class="stat"><b>11 h</b><span>to write one launch by hand</span></div>
-      <div class="stat"><b>2–3 / 12</b><span>AI answers that mention Brow Down</span></div>
-    </div>
+    <span class="chip">2 · Our solution</span>
+    <h2>Evie, an agent in one chat</h2>
+    <ul>
+      <li><b>Goals first:</b> “$10k net a month” becomes a 90-day strategy with the math.</li>
+      <li><b>Agents do the work:</b> ads, social, SEO and Gap Filler, end to end. The owner taps one Approve.</li>
+      <li><b>Why? on every number,</b> plus a Data health score, so the owner can trust it.</li>
+      <li><b>Brow Down:</b> one line becomes a launch plan with owners, dates and a brand-voice check.</li>
+    </ul>
+  </div>
+
+  <!-- 3 built with converge -->
+  <div class="card" style="grid-column:1;grid-row:2">
+    <span class="chip">3 · How we built it with Converge.AI</span>
+    <ul>
+      <li><b>Enter</b> built and hosts the whole app: React front end, database (every table has a studio id), owner sign-in, storage and edge functions.</li>
+      <li><b>Enter AI</b> powers the live chat, content, voice transcription and ad images.</li>
+      <li><b>Framia</b> animated our owl and makes video ads from the Ads agent.</li>
+      <li><b>Covey</b> made the pitch deck. <b>Combos</b> hosts Evie as an AI character.</li>
+    </ul>
+  </div>
+
+  <!-- 4 results -->
+  <div class="card" style="grid-column:3;grid-row:2">
+    <span class="chip">4 · Results</span>
+    <h2>$590 → ~$5,759 net / month</h2>
+    <ul>
+      <li><b>Found:</b> Google earns $38 per chair-hour, ClassPass $4. Influencers brought 77 clients and kept 6.</li>
+      <li><b>Projected:</b> +$2,369 filling empty hours, +$1,900 moving ad spend, +$900 winning back 173 regulars.</li>
+      <li><b>Brow Down:</b> launch prep in minutes. AI-search visibility measured: 2–3 of 12 answers.</li>
+    </ul>
+  </div>
+
+  <!-- 5 go live -->
+  <div class="card" style="grid-column:1 / span 1;grid-row:3">
+    <span class="chip peach">5 · What it needs to go live</span>
+    <ul>
+      <li><b>Owner connects accounts</b> through Enter connectors: Square, Instagram, Gmail, Google Business, Search Console, Calendar. Real data replaces the demo data.</li>
+      <li><b>Google Ads and Meta API access,</b> so approved campaigns launch directly instead of as import files.</li>
+      <li><b>SMS sending</b> for Gap Filler and win-back messages.</li>
+      <li><b>A 30-day pilot</b> with Eve's Space and Brow Down to confirm the projections.</li>
+    </ul>
+  </div>
+
+  <!-- beyond -->
+  <div class="card" style="grid-column:3;grid-row:3">
+    <span class="chip">Beyond one business</span>
+    <h2>Same agent, any appointment business</h2>
+    <p>Evie already runs two very different businesses with zero new code: a nail studio measured on chair-hours, and a brow brand with products and education measured on launches.</p>
+    <p>New businesses onboard in four steps: salons, spas, barbers, clinics, fitness and tattoo studios.</p>
   </div>
 
   <!-- centre -->
@@ -109,53 +151,6 @@ li::before { content:""; position:absolute; left:0; top:1.5mm; width:1.6mm; heig
     <div class="name">Evie · Pixar-style owl, animated in Framia</div>
   </div>
 
-  <!-- middle left -->
-  <div class="card" style="grid-column:1;grid-row:2">
-    <span class="chip">What the data says</span>
-    <ul>
-      <li><b>$38 vs $4</b> margin per chair-hour, Google vs ClassPass.</li>
-      <li><b>77 in, 6 back.</b> Influencer clients rarely return.</li>
-      <li><b>$7,200 → $3,866.</b> Paid Instagram lost money.</li>
-      <li><b>48% rebook</b> from Google and referrals, the clients worth paying for.</li>
-      <li><b>173 regulars</b> drifting away with no reminder.</li>
-    </ul>
-  </div>
-
-  <!-- middle right -->
-  <div class="card" style="grid-column:3;grid-row:2">
-    <span class="chip peach">For Brow Down</span>
-    <ul>
-      <li><b>Campaign Planner:</b> one line becomes a plan with owners, dates and a brand-voice check.</li>
-      <li><b>Launch retro:</b> each result teaches the next plan.</li>
-      <li><b>AI visibility:</b> 12 customer questions checked live, misses become tasks.</li>
-      <li><b>68% vs 2%:</b> Fall kit orders from email vs TikTok, so the next plan leans on email.</li>
-      <li><b>Rank 9 → 14</b> on “brow lamination kit” flagged with content fixes.</li>
-    </ul>
-  </div>
-
-  <!-- bottom left -->
-  <div class="card" style="grid-column:1;grid-row:3">
-    <span class="chip">How it works</span>
-    <h2>One chat, one complete loop</h2>
-    <ul>
-      <li><b>Goals first:</b> “$10k net a month.” Evie asks only for what that goal needs.</li>
-      <li><b>90-day strategy</b> with the dollar math behind every move.</li>
-      <li><b>Agents do the work:</b> ads, social and SEO, end to end. Eve taps Approve.</li>
-      <li><b>Gap Filler</b> texts the right clients for each empty hour.</li>
-    </ul>
-  </div>
-
-  <!-- bottom right -->
-  <div class="card" style="grid-column:3;grid-row:3">
-    <span class="chip">Business impact</span>
-    <h2>$590 → ~$5,759 net / month</h2>
-    <ul>
-      <li><b>+$2,369</b> filling open chair-hours.</li>
-      <li><b>+$1,900</b> moving influencer spend to Google and referrals.</li>
-      <li><b>+$900</b> winning back 173 lapsed regulars.</li>
-      <li>Content in minutes, one P&amp;L.</li>
-    </ul>
-  </div>
 </div>
 
 <div class="foot">
@@ -167,7 +162,6 @@ li::before { content:""; position:absolute; left:0; top:1.5mm; width:1.6mm; heig
       <div class="p"><b>Covey</b><span>The pitch deck</span></div>
       <div class="p"><b>Combos</b><span>Evie as an AI character</span></div>
     </div>
-    <div style="margin-top:2mm;font-size:7.2pt;color:#3D3D46">One agent, two very different businesses, zero new code. Any appointment business onboards in four steps: salons, spas, barbers, clinics, fitness.</div>
   </div>
   <div class="links">
     <b>Try it live</b> · <a href="https://2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro/">2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro</a><br>

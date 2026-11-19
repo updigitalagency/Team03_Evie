@@ -1,2 +1,0 @@
-alter table public.appointments add column import_key text; create unique index appointments_import_key_unique on public.appointments (studio_id,import_key) where import_key is not null;
-alter table public.marketing_spend add column import_key text; create unique index marketing_spend_import_key_unique on public.marketing_spend (studio_id,import_key) where import_key is not null;
