@@ -3,6 +3,8 @@ html,body{margin:0;width:1440px;height:900px;overflow:hidden;font-family:Inter,-
 body{background:radial-gradient(1200px 700px at 50% 120%,#7E6BFF 0%,#D9D2FF 45%,#F7F5FF 70%,#fff 100%)}
 .wrap{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
 .owl{width:260px;height:260px;border-radius:64px;background:#fff;overflow:hidden;box-shadow:0 30px 80px rgba(60,40,140,.28);animation:pop .9s cubic-bezier(.2,1.6,.4,1) both, bob 1.4s ease-in-out .9s infinite}
+.owl video{width:100%;height:100%;object-fit:cover}
+.owl.wide{width:576px;height:324px;border-radius:40px}
 .owl img{width:100%;height:100%;object-fit:cover;transform:scale(1.15)}
 h1{font-size:84px;letter-spacing:-.03em;margin:38px 0 8px;color:#1B1B1F;animation:up .7s .5s both}
 p{font-size:26px;color:#4b4b55;margin:0;animation:up .7s .8s both}
@@ -17,7 +19,8 @@ p{font-size:26px;color:#4b4b55;margin:0;animation:up .7s .8s both}
 <script>
 const q=new URLSearchParams(location.search); const mode=q.get('m')||'intro'; const owl=q.get('owl');
 const w=document.getElementById('w');
-if(mode==='intro'){ w.innerHTML=`<div class="owl"><img src="${owl}"></div><h1>Meet Evie</h1><p>The AI owl that turns marketing into booked, profitable appointments</p><div class="tag">Team 03 · Converge.AI Buildathon · built on Enter</div>`; }
+if(mode==='framia'){ w.innerHTML=`<div class="owl wide"><video src="framia.mp4" autoplay muted playsinline></video></div><h1>Meet Evie</h1><p>The AI owl that turns marketing into booked, profitable appointments</p><div class="tag">Team 03 · Converge.AI Buildathon · Enter · Framia · Covey · Combos</div>`; }
+else if(mode==='intro'){ w.innerHTML=`<div class="owl"><img src="${owl}"></div><h1>Meet Evie</h1><p>The AI owl that turns marketing into booked, profitable appointments</p><div class="tag">Team 03 · Converge.AI Buildathon · built on Enter</div>`; }
 else { w.innerHTML=`<div class="owl" style="animation:pop .9s cubic-bezier(.2,1.6,.4,1) both, wave 1s ease-in-out .9s 3"><img src="${owl}"></div><h1>That's Evie.</h1><p>One agent · every appointment business · on Converge</p><div class="tag">2362fcb7a83745d2a6479915c6c690ca.prod.enter.pro · Team03_Evie</div>`; }
 for(let i=0;i<14;i++){const s=document.createElement('div');s.className='spark';s.style.left=(Math.random()*1400)+'px';s.style.top=(Math.random()*860)+'px';s.style.animationDelay=(Math.random()*3)+'s';s.style.background=['#FFC5A8','#C9B8FF','#FF7A90'][i%3];document.body.appendChild(s);}
 </script></body></html>

@@ -12,7 +12,7 @@ It turns marketing activity into profitable appointments: channel → booking �
 |---|---|
 | `app/` | Application source exported from Enter (React + Enter infrastructure: database, auth, storage, edge functions `evie-ai`, `evie-image`) |
 | `data/` | Synthetic dataset generator and CSVs for Eve's Space (787 clients, 1,593 appointments, May–Oct 2026) |
-| `submission/` | `Team03_Evie.pdf` (5-page write-up), video script |
+| `submission/` | `Team03_Evie.pdf` (5-page write-up), `Team03_Evie_one-pager.pdf` (1 page, both studios), video script |
 | `one-pager.md`, `one-pager-browdown.md` | Narrative for each challenge |
 | `demo-script.md` | 3-minute demo flow |
 | `enter-*.md` | The build briefs sent to Enter, in order (the "source" of a no-code build) |

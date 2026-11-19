@@ -138,3 +138,7 @@ Workspace had 4,350 at start of the evening. Phase 2 build: ~132. Phase 3: ~375.
 - Covey: 10-slide pitch deck "Evie — The AI owl for profitable appointments.pptx" (Covey → Evie Investor Pitch Deck).
 - Combos: AI character "Evie" (private, approved) with our owl portrait and persona; answers in character.
 - Settings shows 'Built with Converge.AI — Enter, Framia, Covey, Combos'.
+
+## Nov 19 — one-pager
+- submission/Team03_Evie_one-pager.pdf (+ .html source): one A4 page, both studios, current numbers (strategy +$2,369 / +$900 / +$1,900, $590 → ~$5,759), new features (goals onboarding, agents with one Approve, Why?, Data health 46→78, voice, owl looks), all four Converge products. Video and GitHub links still placeholders.
+- submission/Team03_Evie_demo_v2.mp4 (2:59, 1440x900): Framia owl intro card, full live tour recorded from prod (all 17 steps, Eve's Space + Brow Down + call + before/after) time-lapsed per step to fit narration, new-features segment (goals onboarding → 90-day strategy + Why this?, Data health fixes 46→52, character looks, "convenes" → campaigns table, all four Converge products), outro. Jenny voice at +12%, whole cut 1.15x. Scripts: scratchpad rec/segC.mjs, rec/final2.py.
