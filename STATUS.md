@@ -48,6 +48,12 @@
 - Cost: ~1,040 credits (916 + 124). Credits left ~8,500.
 - Docs: one-pager-browdown.md.
 
+## Nov 19, ~00:10 — brand profiles, Instagram preview, owl states PUBLISHED
+- Profile = brand page per studio: real logo, tagline, website + @handle (Eve's Space @eves.space; Brow Down @browdownstudios / @browdownstudiopro), Instagram block (demo stats + 3×3 grid of their real photos from their sites; 'live feed when Instagram is connected'), then month tiles, campaigns, channels. Logo also next to the studio name and under the owl ('Evie for Eve's Space').
+- Owl: static for both studios, fills its bubble (cover, 1.15 zoom), 112px in the panel, 120px demo host.
+- Owl STATES (Muse-like): idle bob, thinking (dots), researching (magnifier, verified), writing (pencil), designing (sparkles), launching (megaphone + confetti), listening (call), celebrating (approval), sleeping (2 min idle). Optional 'Generate poses' (runtime, cached) for real pose images.
+- Credits left ~1,090.
+
 ## Nov 18, ~23:00 — static owl + owl-hosted demo PUBLISHED
 - Enter's build shell has no AI token, so static images could not be generated there. Took the owl PNG generated on the preview (localStorage), moved it via window.name into the editor tab, pasted it as a file into the builder chat → saved as public/characters/evie.png (95 KB). Owl now shows for everyone on first open (panel, chat, Settings, call). 'Regenerate look' stays optional; 3D icons remain optional runtime generation (line icons by default).
 - Demo tour: the owl is the host bottom-left next to the captions, bobs while speaking, waves at the end. '(demo)' suffix removed from Why? questions.
